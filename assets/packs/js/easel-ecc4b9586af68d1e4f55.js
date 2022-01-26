@@ -34302,7 +34302,7 @@
                   className: "countdown-time-highlight"
               }, t[0]), " ", t[1], " left"), React.createElement(EASEL.component.a, {
                   onClick: a
-              }, "Get Easel Pro"))
+              }, "TELEVIO"))
           }
           if (e && !t)
               return null;
