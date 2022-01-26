@@ -1,0 +1,2053 @@
+[
+  {
+      "id": 566,
+      "category": "Slab",
+      "family": "Bigshot One",
+      "created_at": "2018-07-09T12:02:47.778-05:00",
+      "updated_at": "2018-07-09T12:02:47.778-05:00"
+  },
+  {
+      "id": 641,
+      "category": "Cursive",
+      "family": "Tangerine",
+      "created_at": "2018-07-09T12:02:48.341-05:00",
+      "updated_at": "2018-07-09T12:02:48.341-05:00"
+  },
+  {
+      "id": 642,
+      "category": "Cursive",
+      "family": "Yesteryear",
+      "created_at": "2018-07-09T12:02:48.349-05:00",
+      "updated_at": "2018-07-09T12:02:48.349-05:00"
+  },
+  {
+      "id": 643,
+      "category": "Handwriting",
+      "family": "Aladin",
+      "created_at": "2018-07-09T12:02:48.357-05:00",
+      "updated_at": "2018-07-09T12:02:48.357-05:00"
+  },
+  {
+      "id": 644,
+      "category": "Handwriting",
+      "family": "Almendra SC",
+      "created_at": "2018-07-09T12:02:48.364-05:00",
+      "updated_at": "2018-07-09T12:02:48.364-05:00"
+  },
+  {
+      "id": 645,
+      "category": "Handwriting",
+      "family": "Architects Daughter",
+      "created_at": "2018-07-09T12:02:48.370-05:00",
+      "updated_at": "2018-07-09T12:02:48.370-05:00"
+  },
+  {
+      "id": 646,
+      "category": "Handwriting",
+      "family": "Bad Script",
+      "created_at": "2018-07-09T12:02:48.390-05:00",
+      "updated_at": "2018-07-09T12:02:48.390-05:00"
+  },
+  {
+      "id": 647,
+      "category": "Handwriting",
+      "family": "Bilbo Swash Caps",
+      "created_at": "2018-07-09T12:02:48.398-05:00",
+      "updated_at": "2018-07-09T12:02:48.398-05:00"
+  },
+  {
+      "id": 648,
+      "category": "Handwriting",
+      "family": "Caveat",
+      "created_at": "2018-07-09T12:02:48.404-05:00",
+      "updated_at": "2018-07-09T12:02:48.404-05:00"
+  },
+  {
+      "id": 649,
+      "category": "Handwriting",
+      "family": "Caveat Brush",
+      "created_at": "2018-07-09T12:02:48.414-05:00",
+      "updated_at": "2018-07-09T12:02:48.414-05:00"
+  },
+  {
+      "id": 650,
+      "category": "Handwriting",
+      "family": "Condiment",
+      "created_at": "2018-07-09T12:02:48.420-05:00",
+      "updated_at": "2018-07-09T12:02:48.420-05:00"
+  },
+  {
+      "id": 651,
+      "category": "Handwriting",
+      "family": "Courgette",
+      "created_at": "2018-07-09T12:02:48.427-05:00",
+      "updated_at": "2018-07-09T12:02:48.427-05:00"
+  },
+  {
+      "id": 652,
+      "category": "Handwriting",
+      "family": "Dekko",
+      "created_at": "2018-07-09T12:02:48.442-05:00",
+      "updated_at": "2018-07-09T12:02:48.442-05:00"
+  },
+  {
+      "id": 653,
+      "category": "Handwriting",
+      "family": "Eagle Lake",
+      "created_at": "2018-07-09T12:02:48.458-05:00",
+      "updated_at": "2018-07-09T12:02:48.458-05:00"
+  },
+  {
+      "id": 654,
+      "category": "Handwriting",
+      "family": "Euphoria Script",
+      "created_at": "2018-07-09T12:02:48.488-05:00",
+      "updated_at": "2018-07-09T12:02:48.488-05:00"
+  },
+  {
+      "id": 655,
+      "category": "Handwriting",
+      "family": "Fondamento",
+      "created_at": "2018-07-09T12:02:48.518-05:00",
+      "updated_at": "2018-07-09T12:02:48.518-05:00"
+  },
+  {
+      "id": 656,
+      "category": "Handwriting",
+      "family": "Jim Nightshade",
+      "created_at": "2018-07-09T12:02:48.526-05:00",
+      "updated_at": "2018-07-09T12:02:48.526-05:00"
+  },
+  {
+      "id": 657,
+      "category": "Handwriting",
+      "family": "Julee",
+      "created_at": "2018-07-09T12:02:48.533-05:00",
+      "updated_at": "2018-07-09T12:02:48.533-05:00"
+  },
+  {
+      "id": 658,
+      "category": "Handwriting",
+      "family": "Handlee",
+      "created_at": "2018-07-09T12:02:48.539-05:00",
+      "updated_at": "2018-07-09T12:02:48.539-05:00"
+  },
+  {
+      "id": 659,
+      "category": "Handwriting",
+      "family": "Kalam",
+      "created_at": "2018-07-09T12:02:48.548-05:00",
+      "updated_at": "2018-07-09T12:02:48.548-05:00"
+  },
+  {
+      "id": 660,
+      "category": "Handwriting",
+      "family": "Indie Flower",
+      "created_at": "2018-07-09T12:02:48.563-05:00",
+      "updated_at": "2018-07-09T12:02:48.563-05:00"
+  },
+  {
+      "id": 661,
+      "category": "Handwriting",
+      "family": "Pangolin",
+      "created_at": "2018-07-09T12:02:48.569-05:00",
+      "updated_at": "2018-07-09T12:02:48.569-05:00"
+  },
+  {
+      "id": 662,
+      "category": "Handwriting",
+      "family": "Permanent Marker",
+      "created_at": "2018-07-09T12:02:48.577-05:00",
+      "updated_at": "2018-07-09T12:02:48.577-05:00"
+  },
+  {
+      "id": 663,
+      "category": "Handwriting",
+      "family": "Redressed",
+      "created_at": "2018-07-09T12:02:48.583-05:00",
+      "updated_at": "2018-07-09T12:02:48.583-05:00"
+  },
+  {
+      "id": 664,
+      "category": "Handwriting",
+      "family": "Rock Salt",
+      "created_at": "2018-07-09T12:02:48.589-05:00",
+      "updated_at": "2018-07-09T12:02:48.589-05:00"
+  },
+  {
+      "id": 665,
+      "category": "Handwriting",
+      "family": "Schoolbell",
+      "created_at": "2018-07-09T12:02:48.595-05:00",
+      "updated_at": "2018-07-09T12:02:48.595-05:00"
+  },
+  {
+      "id": 666,
+      "category": "Handwriting",
+      "family": "Sedgwick Ave",
+      "created_at": "2018-07-09T12:02:48.601-05:00",
+      "updated_at": "2018-07-09T12:02:48.601-05:00"
+  },
+  {
+      "id": 667,
+      "category": "Handwriting",
+      "family": "Shadows Into Light",
+      "created_at": "2018-07-09T12:02:48.609-05:00",
+      "updated_at": "2018-07-09T12:02:48.609-05:00"
+  },
+  {
+      "id": 668,
+      "category": "Handwriting",
+      "family": "Sriracha",
+      "created_at": "2018-07-09T12:02:48.614-05:00",
+      "updated_at": "2018-07-09T12:02:48.614-05:00"
+  },
+  {
+      "id": 669,
+      "category": "Handwriting",
+      "family": "Sunshiney",
+      "created_at": "2018-07-09T12:02:48.623-05:00",
+      "updated_at": "2018-07-09T12:02:48.623-05:00"
+  },
+  {
+      "id": 670,
+      "category": "Handwriting",
+      "family": "Swanky and Moo Moo",
+      "created_at": "2018-07-09T12:02:48.630-05:00",
+      "updated_at": "2018-07-09T12:02:48.630-05:00"
+  },
+  {
+      "id": 671,
+      "category": "Handwriting",
+      "family": "The Girl Next Door",
+      "created_at": "2018-07-09T12:02:48.650-05:00",
+      "updated_at": "2018-07-09T12:02:48.650-05:00"
+  },
+  {
+      "id": 672,
+      "category": "Handwriting",
+      "family": "Qwigley",
+      "created_at": "2018-07-09T12:02:48.656-05:00",
+      "updated_at": "2018-07-09T12:02:48.656-05:00"
+  },
+  {
+      "id": 673,
+      "category": "Monospace",
+      "family": "Anonymous Pro",
+      "created_at": "2018-07-09T12:02:48.662-05:00",
+      "updated_at": "2018-07-09T12:02:48.662-05:00"
+  },
+  {
+      "id": 674,
+      "category": "Monospace",
+      "family": "Cousine",
+      "created_at": "2018-07-09T12:02:48.668-05:00",
+      "updated_at": "2018-07-09T12:02:48.668-05:00"
+  },
+  {
+      "id": 676,
+      "category": "Monospace",
+      "family": "Inconsolata",
+      "created_at": "2018-07-09T12:02:48.686-05:00",
+      "updated_at": "2018-07-09T12:02:48.686-05:00"
+  },
+  {
+      "id": 677,
+      "category": "Monospace",
+      "family": "Nova Mono",
+      "created_at": "2018-07-09T12:02:48.697-05:00",
+      "updated_at": "2018-07-09T12:02:48.697-05:00"
+  },
+  {
+      "id": 678,
+      "category": "Monospace",
+      "family": "Oxygen Mono",
+      "created_at": "2018-07-09T12:02:48.718-05:00",
+      "updated_at": "2018-07-09T12:02:48.718-05:00"
+  },
+  {
+      "id": 679,
+      "category": "Monospace",
+      "family": "PT Mono",
+      "created_at": "2018-07-09T12:02:48.725-05:00",
+      "updated_at": "2018-07-09T12:02:48.725-05:00"
+  },
+  {
+      "id": 680,
+      "category": "Monospace",
+      "family": "Roboto Mono",
+      "created_at": "2018-07-09T12:02:48.946-05:00",
+      "updated_at": "2018-07-09T12:02:48.946-05:00"
+  },
+  {
+      "id": 681,
+      "category": "Monospace",
+      "family": "Share Tech Mono",
+      "created_at": "2018-07-09T12:02:48.954-05:00",
+      "updated_at": "2018-07-09T12:02:48.954-05:00"
+  },
+  {
+      "id": 682,
+      "category": "Monospace",
+      "family": "Space Mono",
+      "created_at": "2018-07-09T12:02:48.968-05:00",
+      "updated_at": "2018-07-09T12:02:48.968-05:00"
+  },
+  {
+      "id": 683,
+      "category": "Monospace",
+      "family": "Source Code Pro",
+      "created_at": "2018-07-09T12:02:48.974-05:00",
+      "updated_at": "2018-07-09T12:02:48.974-05:00"
+  },
+  {
+      "id": 684,
+      "category": "Monospace",
+      "family": "VT323",
+      "created_at": "2018-07-09T12:02:48.989-05:00",
+      "updated_at": "2018-07-09T12:02:48.989-05:00"
+  },
+  {
+      "id": 685,
+      "category": "Uppercase",
+      "family": "Alegreya SC",
+      "created_at": "2018-07-09T12:02:48.998-05:00",
+      "updated_at": "2018-07-09T12:02:48.998-05:00"
+  },
+  {
+      "id": 686,
+      "category": "Uppercase",
+      "family": "Bowlby One SC",
+      "created_at": "2018-07-09T12:02:49.012-05:00",
+      "updated_at": "2018-07-09T12:02:49.012-05:00"
+  },
+  {
+      "id": 687,
+      "category": "Uppercase",
+      "family": "Carrois Gothic SC",
+      "created_at": "2018-07-09T12:02:49.019-05:00",
+      "updated_at": "2018-07-09T12:02:49.019-05:00"
+  },
+  {
+      "id": 688,
+      "category": "Uppercase",
+      "family": "Cormorant SC",
+      "created_at": "2018-07-09T12:02:49.027-05:00",
+      "updated_at": "2018-07-09T12:02:49.027-05:00"
+  },
+  {
+      "id": 689,
+      "category": "Uppercase",
+      "family": "Frijole",
+      "created_at": "2018-07-09T12:02:49.041-05:00",
+      "updated_at": "2018-07-09T12:02:49.041-05:00"
+  },
+  {
+      "id": 690,
+      "category": "Uppercase",
+      "family": "Graduate",
+      "created_at": "2018-07-09T12:02:49.054-05:00",
+      "updated_at": "2018-07-09T12:02:49.054-05:00"
+  },
+  {
+      "id": 691,
+      "category": "Uppercase",
+      "family": "Julius Sans One",
+      "created_at": "2018-07-09T12:02:49.091-05:00",
+      "updated_at": "2018-07-09T12:02:49.091-05:00"
+  },
+  {
+      "id": 692,
+      "category": "Uppercase",
+      "family": "Marcellus SC",
+      "created_at": "2018-07-09T12:02:49.126-05:00",
+      "updated_at": "2018-07-09T12:02:49.126-05:00"
+  },
+  {
+      "id": 693,
+      "category": "Uppercase",
+      "family": "Permanent Marker",
+      "created_at": "2018-07-09T12:02:49.132-05:00",
+      "updated_at": "2018-07-09T12:02:49.132-05:00"
+  },
+  {
+      "id": 694,
+      "category": "Uppercase",
+      "family": "Playfair Display SC",
+      "created_at": "2018-07-09T12:02:49.153-05:00",
+      "updated_at": "2018-07-09T12:02:49.153-05:00"
+  },
+  {
+      "id": 695,
+      "category": "Uppercase",
+      "family": "Ruslan Display",
+      "created_at": "2018-07-09T12:02:49.176-05:00",
+      "updated_at": "2018-07-09T12:02:49.176-05:00"
+  },
+  {
+      "id": 696,
+      "category": "Uppercase",
+      "family": "Shojumaru",
+      "created_at": "2018-07-09T12:02:49.182-05:00",
+      "updated_at": "2018-07-09T12:02:49.182-05:00"
+  },
+  {
+      "id": 697,
+      "category": "Uppercase",
+      "family": "Sigmar One",
+      "created_at": "2018-07-09T12:02:49.189-05:00",
+      "updated_at": "2018-07-09T12:02:49.189-05:00"
+  },
+  {
+      "id": 698,
+      "category": "Uppercase",
+      "family": "Syncopate",
+      "created_at": "2018-07-09T12:02:49.205-05:00",
+      "updated_at": "2018-07-09T12:02:49.205-05:00"
+  },
+  {
+      "id": 699,
+      "category": "Halloween",
+      "family": "Butcherman",
+      "created_at": "2018-07-09T12:02:49.211-05:00",
+      "updated_at": "2018-07-09T12:02:49.211-05:00"
+  },
+  {
+      "id": 700,
+      "category": "Halloween",
+      "family": "Creepster",
+      "created_at": "2018-07-09T12:02:49.217-05:00",
+      "updated_at": "2018-07-09T12:02:49.217-05:00"
+  },
+  {
+      "id": 701,
+      "category": "Halloween",
+      "family": "Eater",
+      "created_at": "2018-07-09T12:02:49.228-05:00",
+      "updated_at": "2018-07-09T12:02:49.228-05:00"
+  },
+  {
+      "id": 702,
+      "category": "Halloween",
+      "family": "Fontdiner Swanky",
+      "created_at": "2018-07-09T12:02:49.236-05:00",
+      "updated_at": "2018-07-09T12:02:49.236-05:00"
+  },
+  {
+      "id": 703,
+      "category": "Halloween",
+      "family": "Freckle Face",
+      "created_at": "2018-07-09T12:02:49.249-05:00",
+      "updated_at": "2018-07-09T12:02:49.249-05:00"
+  },
+  {
+      "id": 704,
+      "category": "Halloween",
+      "family": "Fruktur",
+      "created_at": "2018-07-09T12:02:49.257-05:00",
+      "updated_at": "2018-07-09T12:02:49.257-05:00"
+  },
+  {
+      "id": 705,
+      "category": "Halloween",
+      "family": "Germania One",
+      "created_at": "2018-07-09T12:02:49.272-05:00",
+      "updated_at": "2018-07-09T12:02:49.272-05:00"
+  },
+  {
+      "id": 706,
+      "category": "Halloween",
+      "family": "Jolly Lodger",
+      "created_at": "2018-07-09T12:02:49.279-05:00",
+      "updated_at": "2018-07-09T12:02:49.279-05:00"
+  },
+  {
+      "id": 707,
+      "category": "Halloween",
+      "family": "Nosifer",
+      "created_at": "2018-07-09T12:02:49.285-05:00",
+      "updated_at": "2018-07-09T12:02:49.285-05:00"
+  },
+  {
+      "id": 708,
+      "category": "Halloween",
+      "family": "Slackey",
+      "created_at": "2018-07-09T12:02:49.297-05:00",
+      "updated_at": "2018-07-09T12:02:49.297-05:00"
+  },
+  {
+      "id": 709,
+      "category": "Halloween",
+      "family": "UnifrakturMaguntia",
+      "created_at": "2018-07-09T12:02:49.304-05:00",
+      "updated_at": "2018-07-09T12:02:49.304-05:00"
+  },
+  {
+      "id": 712,
+      "category": "Serif",
+      "family": "Do Hyeon",
+      "created_at": "2019-10-16T14:51:05.075-05:00",
+      "updated_at": "2019-10-16T14:51:05.075-05:00"
+  },
+  {
+      "id": 713,
+      "category": "Serif",
+      "family": "Gothic A1",
+      "created_at": "2019-10-16T14:51:05.077-05:00",
+      "updated_at": "2019-10-16T14:51:05.077-05:00"
+  },
+  {
+      "id": 714,
+      "category": "Handwriting",
+      "family": "Jua",
+      "created_at": "2019-10-16T14:51:05.078-05:00",
+      "updated_at": "2019-10-16T14:51:05.078-05:00"
+  },
+  {
+      "id": 716,
+      "category": "Sans Serif",
+      "family": "Black Han Sans",
+      "created_at": "2019-10-16T14:51:05.082-05:00",
+      "updated_at": "2019-10-16T14:51:05.082-05:00"
+  },
+  {
+      "id": 717,
+      "category": "Sans Serif",
+      "family": "Cute Font",
+      "created_at": "2019-10-16T14:51:05.084-05:00",
+      "updated_at": "2019-10-16T14:51:05.084-05:00"
+  },
+  {
+      "id": 718,
+      "category": "Handwriting",
+      "family": "Dokdo",
+      "created_at": "2019-10-16T14:51:05.086-05:00",
+      "updated_at": "2019-10-16T14:51:05.086-05:00"
+  },
+  {
+      "id": 721,
+      "category": "Handwriting",
+      "family": "Hi Melody",
+      "created_at": "2019-10-16T14:51:05.093-05:00",
+      "updated_at": "2019-10-16T14:51:05.093-05:00"
+  },
+  {
+      "id": 722,
+      "category": "Handwriting",
+      "family": "Poor Story",
+      "created_at": "2019-10-16T14:51:05.104-05:00",
+      "updated_at": "2019-10-16T14:51:05.104-05:00"
+  },
+  {
+      "id": 723,
+      "category": "Serif",
+      "family": "Song Myung",
+      "created_at": "2019-10-16T14:51:05.109-05:00",
+      "updated_at": "2019-10-16T14:51:05.109-05:00"
+  },
+  {
+      "id": 724,
+      "category": "Handwriting",
+      "family": "Yeon Sung",
+      "created_at": "2019-10-16T14:51:05.112-05:00",
+      "updated_at": "2019-10-16T14:51:05.112-05:00"
+  },
+  {
+      "id": 725,
+      "category": "Handwriting",
+      "family": "Nanum Brush Script",
+      "created_at": "2019-10-16T14:51:05.114-05:00",
+      "updated_at": "2019-10-16T14:51:05.114-05:00"
+  },
+  {
+      "id": 726,
+      "category": "Sans Serif",
+      "family": "Nanum Gothic",
+      "created_at": "2019-10-16T14:51:05.116-05:00",
+      "updated_at": "2019-10-16T14:51:05.116-05:00"
+  },
+  {
+      "id": 727,
+      "category": "Monospace",
+      "family": "Nanum Gothic Coding",
+      "created_at": "2019-10-16T14:51:05.118-05:00",
+      "updated_at": "2019-10-16T14:51:05.118-05:00"
+  },
+  {
+      "id": 728,
+      "category": "Serif",
+      "family": "Nanum Myeongjo",
+      "created_at": "2019-10-16T14:51:05.120-05:00",
+      "updated_at": "2019-10-16T14:51:05.120-05:00"
+  },
+  {
+      "id": 729,
+      "category": "Handwriting",
+      "family": "Nanum Pen Script",
+      "created_at": "2019-10-16T14:51:05.123-05:00",
+      "updated_at": "2019-10-16T14:51:05.123-05:00"
+  },
+  {
+      "id": 730,
+      "category": "Sans Serif",
+      "family": "Noto Sans",
+      "created_at": "2019-10-16T14:51:05.130-05:00",
+      "updated_at": "2019-10-16T14:51:05.130-05:00"
+  },
+  {
+      "id": 731,
+      "category": "Serif",
+      "family": "Libre Caslon Display",
+      "created_at": "2019-10-16T14:51:05.133-05:00",
+      "updated_at": "2019-10-16T14:51:05.133-05:00"
+  },
+  {
+      "id": 732,
+      "category": "Serif",
+      "family": "Barlow",
+      "created_at": "2019-10-16T14:51:05.140-05:00",
+      "updated_at": "2019-10-16T14:51:05.140-05:00"
+  },
+  {
+      "id": 733,
+      "category": "Serif",
+      "family": "Barlow Condensed",
+      "created_at": "2019-10-16T14:51:05.142-05:00",
+      "updated_at": "2019-10-16T14:51:05.142-05:00"
+  },
+  {
+      "id": 552,
+      "category": "Serif",
+      "family": "Merriweather",
+      "created_at": "2018-07-09T12:02:47.682-05:00",
+      "updated_at": "2018-07-09T12:02:47.682-05:00"
+  },
+  {
+      "id": 553,
+      "category": "Serif",
+      "family": "Neuton",
+      "created_at": "2018-07-09T12:02:47.688-05:00",
+      "updated_at": "2018-07-09T12:02:47.688-05:00"
+  },
+  {
+      "id": 554,
+      "category": "Serif",
+      "family": "Playfair Display",
+      "created_at": "2018-07-09T12:02:47.694-05:00",
+      "updated_at": "2018-07-09T12:02:47.694-05:00"
+  },
+  {
+      "id": 555,
+      "category": "Serif",
+      "family": "Prata",
+      "created_at": "2018-07-09T12:02:47.700-05:00",
+      "updated_at": "2018-07-09T12:02:47.700-05:00"
+  },
+  {
+      "id": 556,
+      "category": "Serif",
+      "family": "Spectral",
+      "created_at": "2018-07-09T12:02:47.706-05:00",
+      "updated_at": "2018-07-09T12:02:47.706-05:00"
+  },
+  {
+      "id": 557,
+      "category": "Serif",
+      "family": "Trocchi",
+      "created_at": "2018-07-09T12:02:47.712-05:00",
+      "updated_at": "2018-07-09T12:02:47.712-05:00"
+  },
+  {
+      "id": 558,
+      "category": "Serif",
+      "family": "Vidaloka",
+      "created_at": "2018-07-09T12:02:47.719-05:00",
+      "updated_at": "2018-07-09T12:02:47.719-05:00"
+  },
+  {
+      "id": 559,
+      "category": "Serif",
+      "family": "Vollkorn",
+      "created_at": "2018-07-09T12:02:47.725-05:00",
+      "updated_at": "2018-07-09T12:02:47.725-05:00"
+  },
+  {
+      "id": 560,
+      "category": "Slab",
+      "family": "Alfa Slab One",
+      "created_at": "2018-07-09T12:02:47.731-05:00",
+      "updated_at": "2018-07-09T12:02:47.731-05:00"
+  },
+  {
+      "id": 561,
+      "category": "Slab",
+      "family": "Antic Slab",
+      "created_at": "2018-07-09T12:02:47.737-05:00",
+      "updated_at": "2018-07-09T12:02:47.737-05:00"
+  },
+  {
+      "id": 562,
+      "category": "Slab",
+      "family": "Arbutus Slab",
+      "created_at": "2018-07-09T12:02:47.743-05:00",
+      "updated_at": "2018-07-09T12:02:47.743-05:00"
+  },
+  {
+      "id": 563,
+      "category": "Slab",
+      "family": "Arvo",
+      "created_at": "2018-07-09T12:02:47.749-05:00",
+      "updated_at": "2018-07-09T12:02:47.749-05:00"
+  },
+  {
+      "id": 564,
+      "category": "Slab",
+      "family": "Belgrano",
+      "created_at": "2018-07-09T12:02:47.766-05:00",
+      "updated_at": "2018-07-09T12:02:47.766-05:00"
+  },
+  {
+      "id": 565,
+      "category": "Slab",
+      "family": "Bevan",
+      "created_at": "2018-07-09T12:02:47.772-05:00",
+      "updated_at": "2018-07-09T12:02:47.772-05:00"
+  },
+  {
+      "id": 567,
+      "category": "Slab",
+      "family": "BioRhyme",
+      "created_at": "2018-07-09T12:02:47.793-05:00",
+      "updated_at": "2018-07-09T12:02:47.793-05:00"
+  },
+  {
+      "id": 568,
+      "category": "Slab",
+      "family": "Cherry Swash",
+      "created_at": "2018-07-09T12:02:47.800-05:00",
+      "updated_at": "2018-07-09T12:02:47.800-05:00"
+  },
+  {
+      "id": 569,
+      "category": "Slab",
+      "family": "Crete Round",
+      "created_at": "2018-07-09T12:02:47.806-05:00",
+      "updated_at": "2018-07-09T12:02:47.806-05:00"
+  },
+  {
+      "id": 570,
+      "category": "Slab",
+      "family": "Glegoo",
+      "created_at": "2018-07-09T12:02:47.812-05:00",
+      "updated_at": "2018-07-09T12:02:47.812-05:00"
+  },
+  {
+      "id": 571,
+      "category": "Slab",
+      "family": "Gorditas",
+      "created_at": "2018-07-09T12:02:47.819-05:00",
+      "updated_at": "2018-07-09T12:02:47.819-05:00"
+  },
+  {
+      "id": 572,
+      "category": "Slab",
+      "family": "Josefin Slab",
+      "created_at": "2018-07-09T12:02:47.835-05:00",
+      "updated_at": "2018-07-09T12:02:47.835-05:00"
+  },
+  {
+      "id": 573,
+      "category": "Slab",
+      "family": "Kameron",
+      "created_at": "2018-07-09T12:02:47.842-05:00",
+      "updated_at": "2018-07-09T12:02:47.842-05:00"
+  },
+  {
+      "id": 574,
+      "category": "Slab",
+      "family": "Kelly Slab",
+      "created_at": "2018-07-09T12:02:47.847-05:00",
+      "updated_at": "2018-07-09T12:02:47.847-05:00"
+  },
+  {
+      "id": 575,
+      "category": "Slab",
+      "family": "Kreon",
+      "created_at": "2018-07-09T12:02:47.853-05:00",
+      "updated_at": "2018-07-09T12:02:47.853-05:00"
+  },
+  {
+      "id": 576,
+      "category": "Slab",
+      "family": "Noticia Text",
+      "created_at": "2018-07-09T12:02:47.859-05:00",
+      "updated_at": "2018-07-09T12:02:47.859-05:00"
+  },
+  {
+      "id": 577,
+      "category": "Slab",
+      "family": "Peralta",
+      "created_at": "2018-07-09T12:02:47.864-05:00",
+      "updated_at": "2018-07-09T12:02:47.864-05:00"
+  },
+  {
+      "id": 578,
+      "category": "Slab",
+      "family": "Podkova",
+      "created_at": "2018-07-09T12:02:47.870-05:00",
+      "updated_at": "2018-07-09T12:02:47.870-05:00"
+  },
+  {
+      "id": 579,
+      "category": "Slab",
+      "family": "Roboto Slab",
+      "created_at": "2018-07-09T12:02:47.880-05:00",
+      "updated_at": "2018-07-09T12:02:47.880-05:00"
+  },
+  {
+      "id": 580,
+      "category": "Slab",
+      "family": "Rokkitt",
+      "created_at": "2018-07-09T12:02:47.886-05:00",
+      "updated_at": "2018-07-09T12:02:47.886-05:00"
+  },
+  {
+      "id": 581,
+      "category": "Slab",
+      "family": "Sanchez",
+      "created_at": "2018-07-09T12:02:47.891-05:00",
+      "updated_at": "2018-07-09T12:02:47.891-05:00"
+  },
+  {
+      "id": 582,
+      "category": "Slab",
+      "family": "Ultra",
+      "created_at": "2018-07-09T12:02:47.897-05:00",
+      "updated_at": "2018-07-09T12:02:47.897-05:00"
+  },
+  {
+      "id": 583,
+      "category": "Slab",
+      "family": "Wellfleet",
+      "created_at": "2018-07-09T12:02:47.903-05:00",
+      "updated_at": "2018-07-09T12:02:47.903-05:00"
+  },
+  {
+      "id": 584,
+      "category": "Sans Serif",
+      "family": "Abel",
+      "created_at": "2018-07-09T12:02:47.908-05:00",
+      "updated_at": "2018-07-09T12:02:47.908-05:00"
+  },
+  {
+      "id": 585,
+      "category": "Sans Serif",
+      "family": "Alegreya Sans",
+      "created_at": "2018-07-09T12:02:47.914-05:00",
+      "updated_at": "2018-07-09T12:02:47.914-05:00"
+  },
+  {
+      "id": 586,
+      "category": "Sans Serif",
+      "family": "Anton",
+      "created_at": "2018-07-09T12:02:47.920-05:00",
+      "updated_at": "2018-07-09T12:02:47.920-05:00"
+  },
+  {
+      "id": 587,
+      "category": "Sans Serif",
+      "family": "Asap",
+      "created_at": "2018-07-09T12:02:47.925-05:00",
+      "updated_at": "2018-07-09T12:02:47.925-05:00"
+  },
+  {
+      "id": 588,
+      "category": "Sans Serif",
+      "family": "Cabin",
+      "created_at": "2018-07-09T12:02:47.931-05:00",
+      "updated_at": "2018-07-09T12:02:47.931-05:00"
+  },
+  {
+      "id": 589,
+      "category": "Sans Serif",
+      "family": "Cairo",
+      "created_at": "2018-07-09T12:02:47.938-05:00",
+      "updated_at": "2018-07-09T12:02:47.938-05:00"
+  },
+  {
+      "id": 590,
+      "category": "Sans Serif",
+      "family": "Catamaran",
+      "created_at": "2018-07-09T12:02:47.943-05:00",
+      "updated_at": "2018-07-09T12:02:47.943-05:00"
+  },
+  {
+      "id": 591,
+      "category": "Sans Serif",
+      "family": "Chivo",
+      "created_at": "2018-07-09T12:02:47.949-05:00",
+      "updated_at": "2018-07-09T12:02:47.949-05:00"
+  },
+  {
+      "id": 592,
+      "category": "Sans Serif",
+      "family": "Cuprum",
+      "created_at": "2018-07-09T12:02:47.955-05:00",
+      "updated_at": "2018-07-09T12:02:47.955-05:00"
+  },
+  {
+      "id": 593,
+      "category": "Sans Serif",
+      "family": "Dosis",
+      "created_at": "2018-07-09T12:02:47.961-05:00",
+      "updated_at": "2018-07-09T12:02:47.961-05:00"
+  },
+  {
+      "id": 595,
+      "category": "Sans Serif",
+      "family": "Economica",
+      "created_at": "2018-07-09T12:02:47.972-05:00",
+      "updated_at": "2018-07-09T12:02:47.972-05:00"
+  },
+  {
+      "id": 530,
+      "category": "Serif",
+      "family": "Abril Fatface",
+      "created_at": "2018-07-09T12:02:47.517-05:00",
+      "updated_at": "2018-07-09T12:02:47.517-05:00"
+  },
+  {
+      "id": 531,
+      "category": "Serif",
+      "family": "Alice",
+      "created_at": "2018-07-09T12:02:47.523-05:00",
+      "updated_at": "2018-07-09T12:02:47.523-05:00"
+  },
+  {
+      "id": 532,
+      "category": "Serif",
+      "family": "Artifika",
+      "created_at": "2018-07-09T12:02:47.529-05:00",
+      "updated_at": "2018-07-09T12:02:47.529-05:00"
+  },
+  {
+      "id": 533,
+      "category": "Serif",
+      "family": "Average",
+      "created_at": "2018-07-09T12:02:47.535-05:00",
+      "updated_at": "2018-07-09T12:02:47.535-05:00"
+  },
+  {
+      "id": 534,
+      "category": "Serif",
+      "family": "Balthazar",
+      "created_at": "2018-07-09T12:02:47.541-05:00",
+      "updated_at": "2018-07-09T12:02:47.541-05:00"
+  },
+  {
+      "id": 535,
+      "category": "Serif",
+      "family": "Bellefair",
+      "created_at": "2018-07-09T12:02:47.557-05:00",
+      "updated_at": "2018-07-09T12:02:47.557-05:00"
+  },
+  {
+      "id": 536,
+      "category": "Serif",
+      "family": "Bitter",
+      "created_at": "2018-07-09T12:02:47.563-05:00",
+      "updated_at": "2018-07-09T12:02:47.563-05:00"
+  },
+  {
+      "id": 538,
+      "category": "Serif",
+      "family": "Cantata One",
+      "created_at": "2018-07-09T12:02:47.582-05:00",
+      "updated_at": "2018-07-09T12:02:47.582-05:00"
+  },
+  {
+      "id": 539,
+      "category": "Serif",
+      "family": "Cardo",
+      "created_at": "2018-07-09T12:02:47.588-05:00",
+      "updated_at": "2018-07-09T12:02:47.588-05:00"
+  },
+  {
+      "id": 541,
+      "category": "Serif",
+      "family": "Domine",
+      "created_at": "2018-07-09T12:02:47.599-05:00",
+      "updated_at": "2018-07-09T12:02:47.599-05:00"
+  },
+  {
+      "id": 543,
+      "category": "Serif",
+      "family": "Eczar",
+      "created_at": "2018-07-09T12:02:47.611-05:00",
+      "updated_at": "2018-07-09T12:02:47.611-05:00"
+  },
+  {
+      "id": 544,
+      "category": "Serif",
+      "family": "Enriqueta",
+      "created_at": "2018-07-09T12:02:47.617-05:00",
+      "updated_at": "2018-07-09T12:02:47.617-05:00"
+  },
+  {
+      "id": 545,
+      "category": "Serif",
+      "family": "Gentium Basic",
+      "created_at": "2018-07-09T12:02:47.623-05:00",
+      "updated_at": "2018-07-09T12:02:47.623-05:00"
+  },
+  {
+      "id": 546,
+      "category": "Serif",
+      "family": "Judson",
+      "created_at": "2018-07-09T12:02:47.629-05:00",
+      "updated_at": "2018-07-09T12:02:47.629-05:00"
+  },
+  {
+      "id": 547,
+      "category": "Serif",
+      "family": "Kurale",
+      "created_at": "2018-07-09T12:02:47.635-05:00",
+      "updated_at": "2018-07-09T12:02:47.635-05:00"
+  },
+  {
+      "id": 548,
+      "category": "Serif",
+      "family": "Libre Baskerville",
+      "created_at": "2018-07-09T12:02:47.655-05:00",
+      "updated_at": "2018-07-09T12:02:47.655-05:00"
+  },
+  {
+      "id": 549,
+      "category": "Serif",
+      "family": "Lustria",
+      "created_at": "2018-07-09T12:02:47.661-05:00",
+      "updated_at": "2018-07-09T12:02:47.661-05:00"
+  },
+  {
+      "id": 550,
+      "category": "Serif",
+      "family": "Lusitana",
+      "created_at": "2018-07-09T12:02:47.667-05:00",
+      "updated_at": "2018-07-09T12:02:47.667-05:00"
+  },
+  {
+      "id": 551,
+      "category": "Serif",
+      "family": "Marcellus",
+      "created_at": "2018-07-09T12:02:47.673-05:00",
+      "updated_at": "2018-07-09T12:02:47.673-05:00"
+  },
+  {
+      "id": 596,
+      "category": "Sans Serif",
+      "family": "Exo",
+      "created_at": "2018-07-09T12:02:47.978-05:00",
+      "updated_at": "2018-07-09T12:02:47.978-05:00"
+  },
+  {
+      "id": 597,
+      "category": "Sans Serif",
+      "family": "Fira Sans",
+      "created_at": "2018-07-09T12:02:47.983-05:00",
+      "updated_at": "2018-07-09T12:02:47.983-05:00"
+  },
+  {
+      "id": 598,
+      "category": "Sans Serif",
+      "family": "Hind",
+      "created_at": "2018-07-09T12:02:47.989-05:00",
+      "updated_at": "2018-07-09T12:02:47.989-05:00"
+  },
+  {
+      "id": 599,
+      "category": "Sans Serif",
+      "family": "Karla",
+      "created_at": "2018-07-09T12:02:47.995-05:00",
+      "updated_at": "2018-07-09T12:02:47.995-05:00"
+  },
+  {
+      "id": 601,
+      "category": "Sans Serif",
+      "family": "Maven Pro",
+      "created_at": "2018-07-09T12:02:48.013-05:00",
+      "updated_at": "2018-07-09T12:02:48.013-05:00"
+  },
+  {
+      "id": 602,
+      "category": "Sans Serif",
+      "family": "Nunito",
+      "created_at": "2018-07-09T12:02:48.019-05:00",
+      "updated_at": "2018-07-09T12:02:48.019-05:00"
+  },
+  {
+      "id": 603,
+      "category": "Sans Serif",
+      "family": "Open Sans",
+      "created_at": "2018-07-09T12:02:48.025-05:00",
+      "updated_at": "2018-07-09T12:02:48.025-05:00"
+  },
+  {
+      "id": 604,
+      "category": "Sans Serif",
+      "family": "Oswald",
+      "created_at": "2018-07-09T12:02:48.032-05:00",
+      "updated_at": "2018-07-09T12:02:48.032-05:00"
+  },
+  {
+      "id": 605,
+      "category": "Sans Serif",
+      "family": "Oxygen",
+      "created_at": "2018-07-09T12:02:48.038-05:00",
+      "updated_at": "2018-07-09T12:02:48.038-05:00"
+  },
+  {
+      "id": 606,
+      "category": "Sans Serif",
+      "family": "Pathway Gothic One",
+      "created_at": "2018-07-09T12:02:48.044-05:00",
+      "updated_at": "2018-07-09T12:02:48.044-05:00"
+  },
+  {
+      "id": 607,
+      "category": "Sans Serif",
+      "family": "Play",
+      "created_at": "2018-07-09T12:02:48.049-05:00",
+      "updated_at": "2018-07-09T12:02:48.049-05:00"
+  },
+  {
+      "id": 608,
+      "category": "Sans Serif",
+      "family": "Poppins",
+      "created_at": "2018-07-09T12:02:48.055-05:00",
+      "updated_at": "2018-07-09T12:02:48.055-05:00"
+  },
+  {
+      "id": 609,
+      "category": "Sans Serif",
+      "family": "Questrial",
+      "created_at": "2018-07-09T12:02:48.061-05:00",
+      "updated_at": "2018-07-09T12:02:48.061-05:00"
+  },
+  {
+      "id": 610,
+      "category": "Sans Serif",
+      "family": "Quicksand",
+      "created_at": "2018-07-09T12:02:48.068-05:00",
+      "updated_at": "2018-07-09T12:02:48.068-05:00"
+  },
+  {
+      "id": 611,
+      "category": "Sans Serif",
+      "family": "Roboto",
+      "created_at": "2018-07-09T12:02:48.074-05:00",
+      "updated_at": "2018-07-09T12:02:48.074-05:00"
+  },
+  {
+      "id": 612,
+      "category": "Sans Serif",
+      "family": "Russo One",
+      "created_at": "2018-07-09T12:02:48.080-05:00",
+      "updated_at": "2018-07-09T12:02:48.080-05:00"
+  },
+  {
+      "id": 613,
+      "category": "Sans Serif",
+      "family": "Saira Extra Condensed",
+      "created_at": "2018-07-09T12:02:48.086-05:00",
+      "updated_at": "2018-07-09T12:02:48.086-05:00"
+  },
+  {
+      "id": 614,
+      "category": "Sans Serif",
+      "family": "Work Sans",
+      "created_at": "2018-07-09T12:02:48.091-05:00",
+      "updated_at": "2018-07-09T12:02:48.091-05:00"
+  },
+  {
+      "id": 615,
+      "category": "Cursive",
+      "family": "Allura",
+      "created_at": "2018-07-09T12:02:48.098-05:00",
+      "updated_at": "2018-07-09T12:02:48.098-05:00"
+  },
+  {
+      "id": 616,
+      "category": "Cursive",
+      "family": "Arizonia",
+      "created_at": "2018-07-09T12:02:48.117-05:00",
+      "updated_at": "2018-07-09T12:02:48.117-05:00"
+  },
+  {
+      "id": 617,
+      "category": "Cursive",
+      "family": "Cookie",
+      "created_at": "2018-07-09T12:02:48.126-05:00",
+      "updated_at": "2018-07-09T12:02:48.126-05:00"
+  },
+  {
+      "id": 618,
+      "category": "Cursive",
+      "family": "Damion",
+      "created_at": "2018-07-09T12:02:48.132-05:00",
+      "updated_at": "2018-07-09T12:02:48.132-05:00"
+  },
+  {
+      "id": 619,
+      "category": "Cursive",
+      "family": "Dancing Script",
+      "created_at": "2018-07-09T12:02:48.138-05:00",
+      "updated_at": "2018-07-09T12:02:48.138-05:00"
+  },
+  {
+      "id": 620,
+      "category": "Cursive",
+      "family": "Dr Sugiyama",
+      "created_at": "2018-07-09T12:02:48.144-05:00",
+      "updated_at": "2018-07-09T12:02:48.144-05:00"
+  },
+  {
+      "id": 621,
+      "category": "Cursive",
+      "family": "Great Vibes",
+      "created_at": "2018-07-09T12:02:48.150-05:00",
+      "updated_at": "2018-07-09T12:02:48.150-05:00"
+  },
+  {
+      "id": 622,
+      "category": "Cursive",
+      "family": "Italianno",
+      "created_at": "2018-07-09T12:02:48.157-05:00",
+      "updated_at": "2018-07-09T12:02:48.157-05:00"
+  },
+  {
+      "id": 623,
+      "category": "Cursive",
+      "family": "Kristi",
+      "created_at": "2018-07-09T12:02:48.170-05:00",
+      "updated_at": "2018-07-09T12:02:48.170-05:00"
+  },
+  {
+      "id": 624,
+      "category": "Cursive",
+      "family": "La Belle Aurore",
+      "created_at": "2018-07-09T12:02:48.176-05:00",
+      "updated_at": "2018-07-09T12:02:48.176-05:00"
+  },
+  {
+      "id": 625,
+      "category": "Cursive",
+      "family": "Leckerli One",
+      "created_at": "2018-07-09T12:02:48.183-05:00",
+      "updated_at": "2018-07-09T12:02:48.183-05:00"
+  },
+  {
+      "id": 626,
+      "category": "Cursive",
+      "family": "Lovers Quarrel",
+      "created_at": "2018-07-09T12:02:48.189-05:00",
+      "updated_at": "2018-07-09T12:02:48.189-05:00"
+  },
+  {
+      "id": 627,
+      "category": "Cursive",
+      "family": "Monsieur La Doulaise",
+      "created_at": "2018-07-09T12:02:48.194-05:00",
+      "updated_at": "2018-07-09T12:02:48.194-05:00"
+  },
+  {
+      "id": 628,
+      "category": "Cursive",
+      "family": "Montez",
+      "created_at": "2018-07-09T12:02:48.200-05:00",
+      "updated_at": "2018-07-09T12:02:48.200-05:00"
+  },
+  {
+      "id": 629,
+      "category": "Cursive",
+      "family": "Mr Bedfort",
+      "created_at": "2018-07-09T12:02:48.206-05:00",
+      "updated_at": "2018-07-09T12:02:48.206-05:00"
+  },
+  {
+      "id": 630,
+      "category": "Cursive",
+      "family": "Mr Dafoe",
+      "created_at": "2018-07-09T12:02:48.212-05:00",
+      "updated_at": "2018-07-09T12:02:48.212-05:00"
+  },
+  {
+      "id": 631,
+      "category": "Cursive",
+      "family": "Mr De Haviland",
+      "created_at": "2018-07-09T12:02:48.218-05:00",
+      "updated_at": "2018-07-09T12:02:48.218-05:00"
+  },
+  {
+      "id": 632,
+      "category": "Cursive",
+      "family": "Mrs Saint Delafield",
+      "created_at": "2018-07-09T12:02:48.228-05:00",
+      "updated_at": "2018-07-09T12:02:48.228-05:00"
+  },
+  {
+      "id": 633,
+      "category": "Cursive",
+      "family": "Norican",
+      "created_at": "2018-07-09T12:02:48.248-05:00",
+      "updated_at": "2018-07-09T12:02:48.248-05:00"
+  },
+  {
+      "id": 634,
+      "category": "Cursive",
+      "family": "Pacifico",
+      "created_at": "2018-07-09T12:02:48.254-05:00",
+      "updated_at": "2018-07-09T12:02:48.254-05:00"
+  },
+  {
+      "id": 635,
+      "category": "Cursive",
+      "family": "Petit Formal Script",
+      "created_at": "2018-07-09T12:02:48.271-05:00",
+      "updated_at": "2018-07-09T12:02:48.271-05:00"
+  },
+  {
+      "id": 636,
+      "category": "Cursive",
+      "family": "Playball",
+      "created_at": "2018-07-09T12:02:48.279-05:00",
+      "updated_at": "2018-07-09T12:02:48.279-05:00"
+  },
+  {
+      "id": 637,
+      "category": "Cursive",
+      "family": "Sacramento",
+      "created_at": "2018-07-09T12:02:48.303-05:00",
+      "updated_at": "2018-07-09T12:02:48.303-05:00"
+  },
+  {
+      "id": 638,
+      "category": "Cursive",
+      "family": "Satisfy",
+      "created_at": "2018-07-09T12:02:48.309-05:00",
+      "updated_at": "2018-07-09T12:02:48.309-05:00"
+  },
+  {
+      "id": 639,
+      "category": "Cursive",
+      "family": "Sofia",
+      "created_at": "2018-07-09T12:02:48.316-05:00",
+      "updated_at": "2018-07-09T12:02:48.316-05:00"
+  },
+  {
+      "id": 640,
+      "category": "Cursive",
+      "family": "Stalemate",
+      "created_at": "2018-07-09T12:02:48.333-05:00",
+      "updated_at": "2018-07-09T12:02:48.333-05:00"
+  },
+  {
+      "id": 734,
+      "category": "Serif",
+      "family": "Vollkorn SC",
+      "created_at": "2019-10-16T14:51:05.146-05:00",
+      "updated_at": "2019-10-16T14:51:05.146-05:00"
+  },
+  {
+      "id": 735,
+      "category": "Serif",
+      "family": "Fahkwang",
+      "created_at": "2019-10-16T14:51:21.989-05:00",
+      "updated_at": "2019-10-16T14:51:21.989-05:00"
+  },
+  {
+      "id": 736,
+      "category": "Serif",
+      "family": "K2D",
+      "created_at": "2019-10-16T14:51:21.992-05:00",
+      "updated_at": "2019-10-16T14:51:21.992-05:00"
+  },
+  {
+      "id": 737,
+      "category": "Serif",
+      "family": "Kodchasan",
+      "created_at": "2019-10-16T14:51:21.993-05:00",
+      "updated_at": "2019-10-16T14:51:21.993-05:00"
+  },
+  {
+      "id": 738,
+      "category": "Serif",
+      "family": "KoHo",
+      "created_at": "2019-10-16T14:51:21.995-05:00",
+      "updated_at": "2019-10-16T14:51:21.995-05:00"
+  },
+  {
+      "id": 739,
+      "category": "Serif",
+      "family": "Krub",
+      "created_at": "2019-10-16T14:51:21.997-05:00",
+      "updated_at": "2019-10-16T14:51:21.997-05:00"
+  },
+  {
+      "id": 740,
+      "category": "Handwriting",
+      "family": "Mali",
+      "created_at": "2019-10-16T14:51:21.998-05:00",
+      "updated_at": "2019-10-16T14:51:21.998-05:00"
+  },
+  {
+      "id": 741,
+      "category": "Serif",
+      "family": "Niramit",
+      "created_at": "2019-10-16T14:51:22.000-05:00",
+      "updated_at": "2019-10-16T14:51:22.000-05:00"
+  },
+  {
+      "id": 742,
+      "category": "Handwriting",
+      "family": "Srisakdi",
+      "created_at": "2019-10-16T14:51:22.002-05:00",
+      "updated_at": "2019-10-16T14:51:22.002-05:00"
+  },
+  {
+      "id": 743,
+      "category": "Serif",
+      "family": "Thasadith",
+      "created_at": "2019-10-16T14:51:22.003-05:00",
+      "updated_at": "2019-10-16T14:51:22.003-05:00"
+  },
+  {
+      "id": 744,
+      "category": "Uppercase",
+      "family": "Notable",
+      "created_at": "2019-10-16T14:51:22.005-05:00",
+      "updated_at": "2019-10-16T14:51:22.005-05:00"
+  },
+  {
+      "id": 745,
+      "category": "Sans Serif",
+      "family": "Noto Sans KR",
+      "created_at": "2019-10-16T14:51:22.007-05:00",
+      "updated_at": "2019-10-16T14:51:22.007-05:00"
+  },
+  {
+      "id": 746,
+      "category": "Serif",
+      "family": "Noto Serif JP",
+      "created_at": "2019-10-16T14:51:22.009-05:00",
+      "updated_at": "2019-10-16T14:51:22.009-05:00"
+  },
+  {
+      "id": 747,
+      "category": "Serif",
+      "family": "Noto Serif KR",
+      "created_at": "2019-10-16T14:51:22.010-05:00",
+      "updated_at": "2019-10-16T14:51:22.010-05:00"
+  },
+  {
+      "id": 748,
+      "category": "Serif",
+      "family": "Markazi Text",
+      "created_at": "2019-10-16T14:51:22.012-05:00",
+      "updated_at": "2019-10-16T14:51:22.012-05:00"
+  },
+  {
+      "id": 749,
+      "category": "Serif",
+      "family": "Sawarabi Gothic",
+      "created_at": "2019-10-16T14:51:22.014-05:00",
+      "updated_at": "2019-10-16T14:51:22.014-05:00"
+  },
+  {
+      "id": 750,
+      "category": "Serif",
+      "family": "Sawarabi Mincho",
+      "created_at": "2019-10-16T14:51:22.015-05:00",
+      "updated_at": "2019-10-16T14:51:22.015-05:00"
+  },
+  {
+      "id": 751,
+      "category": "Serif",
+      "family": "Tajawal",
+      "created_at": "2019-10-16T14:51:22.017-05:00",
+      "updated_at": "2019-10-16T14:51:22.017-05:00"
+  },
+  {
+      "id": 752,
+      "category": "Handwriting",
+      "family": "East Sea Dokdo",
+      "created_at": "2019-10-16T14:51:22.019-05:00",
+      "updated_at": "2019-10-16T14:51:22.019-05:00"
+  },
+  {
+      "id": 753,
+      "category": "Monospace",
+      "family": "IBM Plex Mono",
+      "created_at": "2019-10-16T14:51:22.020-05:00",
+      "updated_at": "2019-10-16T14:51:22.020-05:00"
+  },
+  {
+      "id": 754,
+      "category": "Sans Serif",
+      "family": "IBM Plex Sans Condensed",
+      "created_at": "2019-10-16T14:51:22.022-05:00",
+      "updated_at": "2019-10-16T14:51:22.022-05:00"
+  },
+  {
+      "id": 755,
+      "category": "Sans Serif",
+      "family": "IBM Plex Sans",
+      "created_at": "2019-10-16T14:51:22.023-05:00",
+      "updated_at": "2019-10-16T14:51:22.023-05:00"
+  },
+  {
+      "id": 756,
+      "category": "Serif",
+      "family": "IBM Plex Serif",
+      "created_at": "2019-10-16T14:51:22.025-05:00",
+      "updated_at": "2019-10-16T14:51:22.025-05:00"
+  },
+  {
+      "id": 757,
+      "category": "Handwriting",
+      "family": "Gaegu",
+      "created_at": "2019-10-16T14:51:22.027-05:00",
+      "updated_at": "2019-10-16T14:51:22.027-05:00"
+  },
+  {
+      "id": 759,
+      "category": "Uppercase",
+      "family": "Luckiest Guy",
+      "created_at": "2019-10-16T14:51:22.032-05:00",
+      "updated_at": "2019-10-16T14:51:22.032-05:00"
+  },
+  {
+      "id": 760,
+      "category": "Serif",
+      "family": "Gayathri",
+      "created_at": "2019-10-16T14:51:34.008-05:00",
+      "updated_at": "2019-10-16T14:51:34.008-05:00"
+  },
+  {
+      "id": 761,
+      "category": "Handwriting",
+      "family": "Beth Ellen",
+      "created_at": "2019-10-16T14:51:34.011-05:00",
+      "updated_at": "2019-10-16T14:51:34.011-05:00"
+  },
+  {
+      "id": 763,
+      "category": "Sans Serif",
+      "family": "Red Hat Display",
+      "created_at": "2019-10-16T14:51:34.015-05:00",
+      "updated_at": "2019-10-16T14:51:34.015-05:00"
+  },
+  {
+      "id": 764,
+      "category": "Handwriting",
+      "family": "Liu Jian Mao Cao",
+      "created_at": "2019-10-16T14:51:34.016-05:00",
+      "updated_at": "2019-10-16T14:51:34.016-05:00"
+  },
+  {
+      "id": 765,
+      "category": "Handwriting",
+      "family": "Long Cang",
+      "created_at": "2019-10-16T14:51:34.018-05:00",
+      "updated_at": "2019-10-16T14:51:34.018-05:00"
+  },
+  {
+      "id": 766,
+      "category": "Handwriting",
+      "family": "Ma Shan Zheng",
+      "created_at": "2019-10-16T14:51:34.020-05:00",
+      "updated_at": "2019-10-16T14:51:34.020-05:00"
+  },
+  {
+      "id": 767,
+      "category": "Handwriting",
+      "family": "Zhi Mang Xing",
+      "created_at": "2019-10-16T14:51:34.022-05:00",
+      "updated_at": "2019-10-16T14:51:34.022-05:00"
+  },
+  {
+      "id": 768,
+      "category": "Sans Serif",
+      "family": "Noto Sans HK",
+      "created_at": "2019-10-16T14:51:34.023-05:00",
+      "updated_at": "2019-10-16T14:51:34.023-05:00"
+  },
+  {
+      "id": 769,
+      "category": "Slab",
+      "family": "Aleo",
+      "created_at": "2019-10-16T14:51:34.025-05:00",
+      "updated_at": "2019-10-16T14:51:34.025-05:00"
+  },
+  {
+      "id": 770,
+      "category": "Serif",
+      "family": "B612",
+      "created_at": "2019-10-16T14:51:34.027-05:00",
+      "updated_at": "2019-10-16T14:51:34.027-05:00"
+  },
+  {
+      "id": 771,
+      "category": "Handwriting",
+      "family": "Charm",
+      "created_at": "2019-10-16T14:51:34.028-05:00",
+      "updated_at": "2019-10-16T14:51:34.028-05:00"
+  },
+  {
+      "id": 774,
+      "category": "Sans Serif",
+      "family": "ZCOOL QingKe HuangYou",
+      "created_at": "2019-10-16T14:51:34.033-05:00",
+      "updated_at": "2019-10-16T14:51:34.033-05:00"
+  },
+  {
+      "id": 775,
+      "category": "Serif",
+      "family": "ZCOOL XiaoWei",
+      "created_at": "2019-10-16T14:51:34.035-05:00",
+      "updated_at": "2019-10-16T14:51:34.035-05:00"
+  },
+  {
+      "id": 776,
+      "category": "Sans Serif",
+      "family": "Staatliches",
+      "created_at": "2019-10-16T14:51:34.037-05:00",
+      "updated_at": "2019-10-16T14:51:34.037-05:00"
+  },
+  {
+      "id": 777,
+      "category": "Serif",
+      "family": "Literata",
+      "created_at": "2019-10-16T14:51:34.038-05:00",
+      "updated_at": "2019-10-16T14:51:34.038-05:00"
+  },
+  {
+      "id": 778,
+      "category": "Serif",
+      "family": "Crimson Pro",
+      "created_at": "2019-10-16T14:51:34.040-05:00",
+      "updated_at": "2019-10-16T14:51:34.040-05:00"
+  },
+  {
+      "id": 779,
+      "category": "Serif",
+      "family": "Noto Serif SC",
+      "created_at": "2019-10-16T14:51:34.042-05:00",
+      "updated_at": "2019-10-16T14:51:34.042-05:00"
+  },
+  {
+      "id": 780,
+      "category": "Serif",
+      "family": "Manjari",
+      "created_at": "2019-10-16T14:51:34.043-05:00",
+      "updated_at": "2019-10-16T14:51:34.043-05:00"
+  },
+  {
+      "id": 781,
+      "category": "Slab",
+      "family": "Hepta Slab",
+      "created_at": "2019-10-16T14:51:34.045-05:00",
+      "updated_at": "2019-10-16T14:51:34.045-05:00"
+  },
+  {
+      "id": 783,
+      "category": "Serif",
+      "family": "Bai Jamjuree",
+      "created_at": "2019-10-16T14:51:34.048-05:00",
+      "updated_at": "2019-10-16T14:51:34.048-05:00"
+  },
+  {
+      "id": 784,
+      "category": "Serif",
+      "family": "Chakra Petch",
+      "created_at": "2019-10-16T14:51:34.050-05:00",
+      "updated_at": "2019-10-16T14:51:34.050-05:00"
+  },
+  {
+      "id": 785,
+      "category": "Sans Serif",
+      "family": "Big Shoulders Display",
+      "created_at": "2019-10-21T10:45:59.886-05:00",
+      "updated_at": "2019-10-21T10:45:59.886-05:00"
+  },
+  {
+      "id": 786,
+      "category": "Sans Serif",
+      "family": "Big Shoulders Text",
+      "created_at": "2019-10-21T10:46:00.052-05:00",
+      "updated_at": "2019-10-21T10:46:00.052-05:00"
+  },
+  {
+      "id": 787,
+      "category": "Sans Serif",
+      "family": "Turret Road",
+      "created_at": "2019-10-21T10:46:00.054-05:00",
+      "updated_at": "2019-10-21T10:46:00.054-05:00"
+  },
+  {
+      "id": 788,
+      "category": "Handwriting",
+      "family": "Mansalva",
+      "created_at": "2019-10-21T10:46:00.056-05:00",
+      "updated_at": "2019-10-21T10:46:00.056-05:00"
+  },
+  {
+      "id": 790,
+      "category": "Sans Serif",
+      "family": "Lexend Deca",
+      "created_at": "2019-10-21T10:46:00.060-05:00",
+      "updated_at": "2019-10-21T10:46:00.060-05:00"
+  },
+  {
+      "id": 791,
+      "category": "Sans Serif",
+      "family": "Farro",
+      "created_at": "2019-10-21T10:46:00.062-05:00",
+      "updated_at": "2019-10-21T10:46:00.062-05:00"
+  },
+  {
+      "id": 793,
+      "category": "Sans Serif",
+      "family": "Blinker",
+      "created_at": "2019-10-21T10:46:00.065-05:00",
+      "updated_at": "2019-10-21T10:46:00.065-05:00"
+  },
+  {
+      "id": 794,
+      "category": "Sans Serif",
+      "family": "Livvic",
+      "created_at": "2019-10-21T10:46:00.067-05:00",
+      "updated_at": "2019-10-21T10:46:00.067-05:00"
+  },
+  {
+      "id": 795,
+      "category": "Sans Serif",
+      "family": "Darker Grotesque",
+      "created_at": "2019-10-21T10:46:00.069-05:00",
+      "updated_at": "2019-10-21T10:46:00.069-05:00"
+  },
+  {
+      "id": 797,
+      "category": "Serif",
+      "family": "Bahianita",
+      "created_at": "2019-10-21T10:46:00.074-05:00",
+      "updated_at": "2019-10-21T10:46:00.074-05:00"
+  },
+  {
+      "id": 799,
+      "category": "Sans Serif",
+      "family": "DM Sans",
+      "created_at": "2019-10-21T10:46:00.078-05:00",
+      "updated_at": "2019-10-21T10:46:00.078-05:00"
+  },
+  {
+      "id": 800,
+      "category": "Serif",
+      "family": "DM Serif Display",
+      "created_at": "2019-10-21T10:46:00.079-05:00",
+      "updated_at": "2019-10-21T10:46:00.079-05:00"
+  },
+  {
+      "id": 801,
+      "category": "Serif",
+      "family": "DM Serif Text",
+      "created_at": "2019-10-21T10:46:00.081-05:00",
+      "updated_at": "2019-10-21T10:46:00.081-05:00"
+  },
+  {
+      "id": 802,
+      "category": "Cursive",
+      "family": "Charmonman",
+      "created_at": "2019-10-21T10:46:00.083-05:00",
+      "updated_at": "2019-10-21T10:46:00.083-05:00"
+  },
+  {
+      "id": 803,
+      "category": "Sans Serif",
+      "family": "Ubuntu",
+      "created_at": "2019-10-21T10:46:00.084-05:00",
+      "updated_at": "2019-10-21T10:46:00.084-05:00"
+  },
+  {
+      "id": 804,
+      "category": "Sans Serif",
+      "family": "Arimo",
+      "created_at": "2019-10-21T10:46:00.086-05:00",
+      "updated_at": "2019-10-21T10:46:00.086-05:00"
+  },
+  {
+      "id": 805,
+      "category": "Serif",
+      "family": "Acme",
+      "created_at": "2019-10-21T10:46:00.088-05:00",
+      "updated_at": "2019-10-21T10:46:00.088-05:00"
+  },
+  {
+      "id": 807,
+      "category": "Sans Serif",
+      "family": "Yanone Kaffeesatz",
+      "created_at": "2019-10-21T10:46:00.091-05:00",
+      "updated_at": "2019-10-21T10:46:00.091-05:00"
+  },
+  {
+      "id": 808,
+      "category": "Slab",
+      "family": "Patua One",
+      "created_at": "2019-10-21T10:46:00.093-05:00",
+      "updated_at": "2019-10-21T10:46:00.093-05:00"
+  },
+  {
+      "id": 809,
+      "category": "Sans Serif",
+      "family": "Archivo",
+      "created_at": "2019-10-21T10:46:00.095-05:00",
+      "updated_at": "2019-10-21T10:46:00.095-05:00"
+  },
+  {
+      "id": 810,
+      "category": "Serif",
+      "family": "Bree Serif",
+      "created_at": "2019-10-21T10:46:00.098-05:00",
+      "updated_at": "2019-10-21T10:46:00.098-05:00"
+  },
+  {
+      "id": 510,
+      "category": "Stencil",
+      "family": "Allerta Stencil",
+      "created_at": "2018-07-09T12:02:47.357-05:00",
+      "updated_at": "2019-11-04T10:56:02.670-06:00"
+  },
+  {
+      "id": 511,
+      "category": "Handwriting",
+      "family": "Almendra SC",
+      "created_at": "2018-07-09T12:02:47.398-05:00",
+      "updated_at": "2019-11-04T10:56:02.676-06:00"
+  },
+  {
+      "id": 710,
+      "category": "Handwriting",
+      "family": "Stylish",
+      "created_at": "2019-10-16T14:51:05.067-05:00",
+      "updated_at": "2019-11-04T10:56:02.679-06:00"
+  },
+  {
+      "id": 512,
+      "category": "Slab",
+      "family": "Belgrano",
+      "created_at": "2018-07-09T12:02:47.404-05:00",
+      "updated_at": "2019-11-04T10:56:02.682-06:00"
+  },
+  {
+      "id": 513,
+      "category": "Serif",
+      "family": "Berkshire Swash",
+      "created_at": "2018-07-09T12:02:47.410-05:00",
+      "updated_at": "2019-11-04T10:56:02.685-06:00"
+  },
+  {
+      "id": 514,
+      "category": "Sans Serif",
+      "family": "Ceviche One",
+      "created_at": "2018-07-09T12:02:47.416-05:00",
+      "updated_at": "2019-11-04T10:56:02.689-06:00"
+  },
+  {
+      "id": 515,
+      "category": "Sans Serif",
+      "family": "Chewy",
+      "created_at": "2018-07-09T12:02:47.422-05:00",
+      "updated_at": "2019-11-04T10:56:02.692-06:00"
+  },
+  {
+      "id": 516,
+      "category": "Uppercase",
+      "family": "Crushed",
+      "created_at": "2018-07-09T12:02:47.429-05:00",
+      "updated_at": "2019-11-04T10:56:02.695-06:00"
+  },
+  {
+      "id": 517,
+      "category": "Serif",
+      "family": "Emilys Candy",
+      "created_at": "2018-07-09T12:02:47.434-05:00",
+      "updated_at": "2019-11-04T10:56:02.698-06:00"
+  },
+  {
+      "id": 518,
+      "category": "Serif",
+      "family": "Forum",
+      "created_at": "2018-07-09T12:02:47.441-05:00",
+      "updated_at": "2019-11-04T10:56:02.701-06:00"
+  },
+  {
+      "id": 519,
+      "category": "Sans Serif",
+      "family": "Nova Script",
+      "created_at": "2018-07-09T12:02:47.446-05:00",
+      "updated_at": "2019-11-04T10:56:02.704-06:00"
+  },
+  {
+      "id": 520,
+      "category": "Sans Serif",
+      "family": "Limelight",
+      "created_at": "2018-07-09T12:02:47.453-05:00",
+      "updated_at": "2019-11-04T10:56:02.707-06:00"
+  },
+  {
+      "id": 521,
+      "category": "Serif",
+      "family": "Milonga",
+      "created_at": "2018-07-09T12:02:47.459-05:00",
+      "updated_at": "2019-11-04T10:56:02.710-06:00"
+  },
+  {
+      "id": 522,
+      "category": "Cursive",
+      "family": "Monsieur La Doulaise",
+      "created_at": "2018-07-09T12:02:47.464-05:00",
+      "updated_at": "2019-11-04T10:56:02.713-06:00"
+  },
+  {
+      "id": 715,
+      "category": "Serif",
+      "family": "Kirang Haerang",
+      "created_at": "2019-10-16T14:51:05.080-05:00",
+      "updated_at": "2019-11-04T10:56:02.716-06:00"
+  },
+  {
+      "id": 719,
+      "category": "Handwriting",
+      "family": "Gamja Flower",
+      "created_at": "2019-10-16T14:51:05.087-05:00",
+      "updated_at": "2019-11-04T10:56:02.720-06:00"
+  },
+  {
+      "id": 720,
+      "category": "Monospace",
+      "family": "Gugi",
+      "created_at": "2019-10-16T14:51:05.089-05:00",
+      "updated_at": "2019-11-04T10:56:02.723-06:00"
+  },
+  {
+      "id": 523,
+      "category": "Sans Serif",
+      "family": "Overlock",
+      "created_at": "2018-07-09T12:02:47.474-05:00",
+      "updated_at": "2019-11-04T10:56:02.726-06:00"
+  },
+  {
+      "id": 524,
+      "category": "Cursive",
+      "family": "Playball",
+      "created_at": "2018-07-09T12:02:47.480-05:00",
+      "updated_at": "2019-11-04T10:56:02.729-06:00"
+  },
+  {
+      "id": 525,
+      "category": "Sans Serif",
+      "family": "Poiret One",
+      "created_at": "2018-07-09T12:02:47.488-05:00",
+      "updated_at": "2019-11-04T10:56:02.732-06:00"
+  },
+  {
+      "id": 526,
+      "category": "Serif",
+      "family": "Rye",
+      "created_at": "2018-07-09T12:02:47.493-05:00",
+      "updated_at": "2019-11-04T10:56:02.736-06:00"
+  },
+  {
+      "id": 527,
+      "category": "Slab",
+      "family": "Suez One",
+      "created_at": "2018-07-09T12:02:47.499-05:00",
+      "updated_at": "2019-11-04T10:56:02.739-06:00"
+  },
+  {
+      "id": 528,
+      "category": "Slab",
+      "family": "Ultra",
+      "created_at": "2018-07-09T12:02:47.506-05:00",
+      "updated_at": "2019-11-04T10:56:02.742-06:00"
+  },
+  {
+      "id": 529,
+      "category": "Sans Serif",
+      "family": "Wendy One",
+      "created_at": "2018-07-09T12:02:47.512-05:00",
+      "updated_at": "2019-11-04T10:56:02.745-06:00"
+  },
+  {
+      "id": 758,
+      "category": "Sans Serif",
+      "family": "Black And White Picture",
+      "created_at": "2019-10-16T14:51:22.030-05:00",
+      "updated_at": "2019-11-04T10:56:02.748-06:00"
+  },
+  {
+      "id": 762,
+      "category": "Handwriting",
+      "family": "Vibes",
+      "created_at": "2019-10-16T14:51:34.013-05:00",
+      "updated_at": "2019-11-04T10:56:02.751-06:00"
+  },
+  {
+      "id": 772,
+      "category": "Monospace",
+      "family": "Major Mono Display",
+      "created_at": "2019-10-16T14:51:34.030-05:00",
+      "updated_at": "2019-11-04T10:56:02.754-06:00"
+  },
+  {
+      "id": 773,
+      "category": "Handwriting",
+      "family": "ZCOOL KuaiLe",
+      "created_at": "2019-10-16T14:51:34.032-05:00",
+      "updated_at": "2019-11-04T10:56:02.757-06:00"
+  },
+  {
+      "id": 782,
+      "category": "Serif",
+      "family": "Grenze",
+      "created_at": "2019-10-16T14:51:34.047-05:00",
+      "updated_at": "2019-11-04T10:56:02.760-06:00"
+  },
+  {
+      "id": 792,
+      "category": "Halloween",
+      "family": "Lacquer",
+      "created_at": "2019-10-21T10:46:00.063-05:00",
+      "updated_at": "2019-11-04T10:56:02.763-06:00"
+  },
+  {
+      "id": 796,
+      "category": "Stencil",
+      "family": "Saira Stencil One",
+      "created_at": "2019-10-21T10:46:00.071-05:00",
+      "updated_at": "2019-11-04T10:56:02.766-06:00"
+  },
+  {
+      "id": 798,
+      "category": "Handwriting",
+      "family": "Barriecito",
+      "created_at": "2019-10-21T10:46:00.076-05:00",
+      "updated_at": "2019-11-04T10:56:02.769-06:00"
+  },
+  {
+      "id": 806,
+      "category": "Sans Serif",
+      "family": "Righteous",
+      "created_at": "2019-10-21T10:46:00.090-05:00",
+      "updated_at": "2019-11-04T10:56:02.772-06:00"
+  }
+]

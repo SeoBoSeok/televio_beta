@@ -1,0 +1,2254 @@
+[
+  {
+      "id": 1,
+      "name": "ABS",
+      "store_url": "https://www.inventables.com/categories/materials/plastic/abs",
+      "layer_names": [
+          "Color"
+      ],
+      "category": "Plastic",
+      "store_id": null,
+      "source": "global",
+      "width_x": null,
+      "length_y": null,
+      "thickness_z": null,
+      "texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/1/default/abs.jpg?1536692467",
+      "base_texture_url": null,
+      "thumbnail_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/1/default/abs.jpg?1536692467",
+      "sort_name": "ABS",
+      "display_name": "ABS",
+      "variations": [
+          {
+              "name": "White",
+              "store_url": "https://www.inventables.com/technologies/white-abs-plastic-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          238,
+                          238,
+                          238
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": true
+          },
+          {
+              "name": "Black",
+              "store_url": "https://www.inventables.com/technologies/black-abs-plastic-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          51,
+                          51,
+                          51
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          }
+      ],
+      "prefixes": [
+          "toolbox/materials",
+          "application"
+      ],
+      "template": "index",
+      "layout": {},
+      "global": true
+  },
+  {
+      "id": 2,
+      "name": "Aluminum",
+      "store_url": "https://www.inventables.com/technologies/aluminum-sheet-6061",
+      "layer_names": [],
+      "category": "Metal",
+      "store_id": null,
+      "source": "global",
+      "width_x": null,
+      "length_y": null,
+      "thickness_z": null,
+      "texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/2/default/aluminum.jpg?1536692468",
+      "base_texture_url": null,
+      "thumbnail_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/2/default/aluminum.jpg?1536692468",
+      "sort_name": "Aluminum",
+      "display_name": "Aluminum",
+      "variations": [],
+      "prefixes": [
+          "toolbox/materials",
+          "application"
+      ],
+      "template": "index",
+      "layout": {},
+      "global": true
+  },
+  {
+      "id": 3,
+      "name": "Bamboo",
+      "store_url": "https://www.inventables.com/technologies/bamboo-plywood",
+      "layer_names": [],
+      "category": "Wood",
+      "store_id": null,
+      "source": "global",
+      "width_x": null,
+      "length_y": null,
+      "thickness_z": null,
+      "texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/3/default/bamboo.jpg?1536692469",
+      "base_texture_url": null,
+      "thumbnail_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/3/default/bamboo.jpg?1536692469",
+      "sort_name": "Bamboo",
+      "display_name": "Bamboo",
+      "variations": [],
+      "prefixes": [
+          "toolbox/materials",
+          "application"
+      ],
+      "template": "index",
+      "layout": {},
+      "global": true
+  },
+  {
+      "id": 4,
+      "name": "Birch Plywood",
+      "store_url": "https://www.inventables.com/technologies/birch-plywood--2",
+      "layer_names": [],
+      "category": "Wood",
+      "store_id": null,
+      "source": "global",
+      "width_x": null,
+      "length_y": null,
+      "thickness_z": null,
+      "texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/4/default/birch.jpg?1536692469",
+      "base_texture_url": null,
+      "thumbnail_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/4/default/birch.jpg?1536692469",
+      "sort_name": "Birch Plywood",
+      "display_name": "Birch Plywood",
+      "variations": [],
+      "prefixes": [
+          "toolbox/materials",
+          "application"
+      ],
+      "template": "index",
+      "layout": {},
+      "global": true
+  },
+  {
+      "id": 5,
+      "name": "Bubinga",
+      "store_url": "https://www.inventables.com/technologies/bubinga--2",
+      "layer_names": [],
+      "category": "Wood",
+      "store_id": null,
+      "source": "global",
+      "width_x": null,
+      "length_y": null,
+      "thickness_z": null,
+      "texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/5/default/bubinga.jpg?1536692470",
+      "base_texture_url": null,
+      "thumbnail_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/5/default/bubinga.jpg?1536692470",
+      "sort_name": "Bubinga",
+      "display_name": "Bubinga",
+      "variations": [],
+      "prefixes": [
+          "toolbox/materials",
+          "application"
+      ],
+      "template": "index",
+      "layout": {},
+      "global": true
+  },
+  {
+      "id": 6,
+      "name": "Cast Acrylic",
+      "store_url": "https://www.inventables.com/categories/materials/acrylic",
+      "layer_names": [
+          "Color"
+      ],
+      "category": "Plastic",
+      "store_id": null,
+      "source": "global",
+      "width_x": null,
+      "length_y": null,
+      "thickness_z": null,
+      "texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/6/default/acrylic.jpg?1536692473",
+      "base_texture_url": null,
+      "thumbnail_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_thumbnails/6/default/acrylic_single.png?1538408363",
+      "sort_name": "Acrylic, 1-Color",
+      "display_name": "Cast Acrylic",
+      "variations": [
+          {
+              "name": "Black",
+              "store_url": "https://www.inventables.com/technologies/black-acrylic-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          34,
+                          34,
+                          34
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": true
+          },
+          {
+              "name": "Blue",
+              "store_url": "https://www.inventables.com/technologies/blue-acrylic-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          34,
+                          85,
+                          187
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Brown",
+              "store_url": "https://www.inventables.com/technologies/brown-acrylic-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          31,
+                          23,
+                          19
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Bubble Gum Pink",
+              "store_url": "https://www.inventables.com/technologies/bubble-gum-pink-acrylic-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          242,
+                          100,
+                          118
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Green",
+              "store_url": "https://www.inventables.com/technologies/green-acrylic-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          47,
+                          168,
+                          60
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Grey",
+              "store_url": "https://www.inventables.com/technologies/grey-acrylic-sheet--2",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          92,
+                          96,
+                          95
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Orange",
+              "store_url": "https://www.inventables.com/technologies/orange-acrylic-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          240,
+                          56,
+                          18
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Red",
+              "store_url": "https://www.inventables.com/technologies/red-acrylic-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          204,
+                          51,
+                          51
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "White",
+              "store_url": "https://www.inventables.com/technologies/white-acrylic-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Yellow",
+              "store_url": "https://www.inventables.com/technologies/yellow-acrylic-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          251,
+                          233,
+                          25
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          }
+      ],
+      "prefixes": [
+          "toolbox/materials",
+          "application"
+      ],
+      "template": "index",
+      "layout": {},
+      "global": true
+  },
+  {
+      "id": 7,
+      "name": "Two-Color Acrylic",
+      "store_url": "https://www.inventables.com/categories/materials/acrylic",
+      "layer_names": [
+          "Top",
+          "Bottom"
+      ],
+      "category": "Plastic",
+      "store_id": null,
+      "source": "global",
+      "width_x": null,
+      "length_y": null,
+      "thickness_z": null,
+      "texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/7/default/acrylic.jpg?1536692474",
+      "base_texture_url": null,
+      "thumbnail_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_thumbnails/7/default/acrylic_2color.png?1538408276",
+      "sort_name": "Acrylic, 2-Color",
+      "display_name": "2-Color Acrylic",
+      "variations": [
+          {
+              "name": "White on Red",
+              "store_url": "https://www.inventables.com/technologies/white-on-red-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          204,
+                          51,
+                          51
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Apple Green on Bright White",
+              "store_url": "https://www.inventables.com/technologies/apple-green-on-bright-white-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          85,
+                          170,
+                          68
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Black on Bright White",
+              "store_url": "https://www.inventables.com/technologies/black-on-bright-white-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          34,
+                          34,
+                          34
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": true
+          },
+          {
+              "name": "Blue on Bright White",
+              "store_url": "https://www.inventables.com/technologies/blue-on-bright-white-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          34,
+                          85,
+                          187
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Brushed Aluminum on Black",
+              "store_url": "https://www.inventables.com/technologies/brushed-aluminum-on-black-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          204,
+                          204,
+                          204
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          34,
+                          34,
+                          34
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Brushed Gold on Black",
+              "store_url": "https://www.inventables.com/technologies/brushed-gold-on-black-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          204,
+                          187,
+                          119
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          34,
+                          34,
+                          34
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Brushed Gold on Blue",
+              "store_url": "https://www.inventables.com/technologies/brushed-gold-on-blue-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          204,
+                          187,
+                          119
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          34,
+                          85,
+                          187
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Brushed Silver on Black",
+              "store_url": "https://www.inventables.com/technologies/brushed-silver-on-black-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          153,
+                          153,
+                          153
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          34,
+                          34,
+                          34
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Euro Gold on Black",
+              "store_url": "https://www.inventables.com/technologies/euro-gold-on-black-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          221,
+                          204,
+                          136
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          34,
+                          34,
+                          34
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Gloss Black on Gold",
+              "store_url": "https://www.inventables.com/technologies/gloss-black-on-gold-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          34,
+                          34,
+                          34
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          204,
+                          187,
+                          119
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Matte Black on Gold",
+              "store_url": "https://www.inventables.com/technologies/matte-black-on-gold-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          34,
+                          34,
+                          34
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          204,
+                          187,
+                          119
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Red on Bright White",
+              "store_url": "https://www.inventables.com/technologies/red-on-bright-white-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          204,
+                          51,
+                          51
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "White on Black",
+              "store_url": "https://www.inventables.com/technologies/white-on-black-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          34,
+                          34,
+                          34
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "White on Blue",
+              "store_url": "https://www.inventables.com/technologies/white-on-blue-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          34,
+                          85,
+                          187
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Yellow on Black",
+              "store_url": "https://www.inventables.com/technologies/yellow-on-black-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          51
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          34,
+                          34,
+                          34
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Brushed Bronze on Black",
+              "store_url": "https://www.inventables.com/technologies/brushed-bronze-on-black-laserable-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          119,
+                          102,
+                          68
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          34,
+                          34,
+                          34
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Brushed Copper on Black",
+              "store_url": "https://www.inventables.com/technologies/brushed-copper-on-black-laserable-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          187,
+                          153,
+                          136
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          34,
+                          34,
+                          34
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Deep Bronze on Black",
+              "store_url": "https://www.inventables.com/technologies/deep-bronze-on-black-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          119,
+                          102,
+                          68
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          34,
+                          34,
+                          34
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Navy Blue on White",
+              "store_url": "https://www.inventables.com/technologies/navy-blue-on-white-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          34,
+                          68,
+                          119
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Dark Green on White",
+              "store_url": "https://www.inventables.com/technologies/dark-green-on-white-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          34,
+                          136,
+                          85
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Grey on White",
+              "store_url": "https://www.inventables.com/technologies/grey-on-white-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          153,
+                          153,
+                          153
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Purple on White",
+              "store_url": "https://www.inventables.com/technologies/purple-on-white-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          85,
+                          51,
+                          136
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Black on Glow in the Dark",
+              "store_url": "https://www.inventables.com/technologies/black-on-glow-in-the-dark-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          34,
+                          34,
+                          34
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          238,
+                          255,
+                          204
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Silver on Black",
+              "store_url": "https://www.inventables.com/technologies/silver-on-black-laserable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          153,
+                          153,
+                          153
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          34,
+                          34,
+                          34
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Matte White on Silver",
+              "store_url": "https://www.inventables.com/technologies/matte-white-on-silver-engravable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          153,
+                          153,
+                          153
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Matte White on Gold",
+              "store_url": "https://www.inventables.com/technologies/matte-white-on-gold-engravable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          204,
+                          187,
+                          119
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Matte Black on Silver",
+              "store_url": "https://www.inventables.com/technologies/matte-black-on-silver-engravable-acrylic-sheet",
+              "thumbnail_name": "2-Color Acrylic",
+              "layers": [
+                  {
+                      "rgb": [
+                          34,
+                          34,
+                          34
+                      ],
+                      "bottomZ": -0.005,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          153,
+                          153,
+                          153
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          }
+      ],
+      "prefixes": [
+          "toolbox/materials",
+          "application"
+      ],
+      "template": "index",
+      "layout": {},
+      "global": true
+  },
+  {
+      "id": 8,
+      "name": "Cherry Plywood",
+      "store_url": "https://www.inventables.com/technologies/cherry-plywood--2",
+      "layer_names": [],
+      "category": "Wood",
+      "store_id": null,
+      "source": "global",
+      "width_x": null,
+      "length_y": null,
+      "thickness_z": null,
+      "texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/8/default/cherry.jpg?1536692475",
+      "base_texture_url": null,
+      "thumbnail_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/8/default/cherry.jpg?1536692475",
+      "sort_name": "Cherry Plywood",
+      "display_name": "Cherry Plywood",
+      "variations": [],
+      "prefixes": [
+          "toolbox/materials",
+          "application"
+      ],
+      "template": "index",
+      "layout": {},
+      "global": true
+  },
+  {
+      "id": 9,
+      "name": "Corian",
+      "store_url": "https://www.inventables.com/categories/materials/corian",
+      "layer_names": [
+          "Color"
+      ],
+      "category": null,
+      "store_id": null,
+      "source": "global",
+      "width_x": null,
+      "length_y": null,
+      "thickness_z": null,
+      "texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/9/default/corian.jpg?1536692476",
+      "base_texture_url": null,
+      "thumbnail_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/9/default/corian.jpg?1536692476",
+      "sort_name": "Corian",
+      "display_name": "Corian",
+      "variations": [
+          {
+              "name": "Black",
+              "store_url": "https://www.inventables.com/technologies/black-corian",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          34,
+                          34,
+                          34
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "White",
+              "store_url": "https://www.inventables.com/technologies/white-corian",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": true
+          }
+      ],
+      "prefixes": [
+          "toolbox/materials",
+          "application"
+      ],
+      "template": "index",
+      "layout": {},
+      "global": true
+  },
+  {
+      "id": 10,
+      "name": "Expanded PVC",
+      "store_url": "https://www.inventables.com/categories/materials/plastic/expanded-pvc",
+      "layer_names": [
+          "Color"
+      ],
+      "category": "Plastic",
+      "store_id": null,
+      "source": "global",
+      "width_x": null,
+      "length_y": null,
+      "thickness_z": null,
+      "texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/10/default/pvc.jpg?1536692476",
+      "base_texture_url": null,
+      "thumbnail_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/10/default/pvc.jpg?1536692476",
+      "sort_name": "Expanded PVC",
+      "display_name": "Expanded PVC",
+      "variations": [
+          {
+              "name": "Blue",
+              "store_url": "https://www.inventables.com/technologies/blue-expanded-pvc-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          34,
+                          51,
+                          102
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": true
+          },
+          {
+              "name": "Red",
+              "store_url": "https://www.inventables.com/technologies/red-expanded-pvc-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          170,
+                          51,
+                          51
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Green",
+              "store_url": "https://www.inventables.com/technologies/green-expanded-pvc-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          68,
+                          136,
+                          68
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Yellow",
+              "store_url": "https://www.inventables.com/technologies/yellow-expanded-pvc-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          221,
+                          187,
+                          51
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "White",
+              "store_url": "https://www.inventables.com/technologies/white-expanded-pvc-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Grey",
+              "store_url": "https://www.inventables.com/technologies/grey-expanded-pvc-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          153,
+                          153,
+                          153
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Black",
+              "store_url": "https://www.inventables.com/technologies/black-expanded-pvc-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          34,
+                          34,
+                          34
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          }
+      ],
+      "prefixes": [
+          "toolbox/materials",
+          "application"
+      ],
+      "template": "index",
+      "layout": {},
+      "global": true
+  },
+  {
+      "id": 11,
+      "name": "Hard Maple",
+      "store_url": "https://www.inventables.com/technologies/hard-maple--2",
+      "layer_names": [],
+      "category": "Wood",
+      "store_id": null,
+      "source": "global",
+      "width_x": null,
+      "length_y": null,
+      "thickness_z": null,
+      "texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/11/default/maple.jpg?1536692477",
+      "base_texture_url": null,
+      "thumbnail_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/11/default/maple.jpg?1536692477",
+      "sort_name": "Hard Maple",
+      "display_name": "Hard Maple",
+      "variations": [],
+      "prefixes": [
+          "toolbox/materials",
+          "application"
+      ],
+      "template": "index",
+      "layout": {},
+      "global": true
+  },
+  {
+      "id": 12,
+      "name": "One-Color HDPE",
+      "store_url": "https://www.inventables.com/categories/materials/plastic/hdpe",
+      "layer_names": [
+          "Color"
+      ],
+      "category": "Plastic",
+      "store_id": null,
+      "source": "global",
+      "width_x": null,
+      "length_y": null,
+      "thickness_z": null,
+      "texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/12/default/hdpe.jpg?1536692477",
+      "base_texture_url": null,
+      "thumbnail_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_thumbnails/12/default/HDPE_single.png?1538408421",
+      "sort_name": "HDPE, 1-color",
+      "display_name": "HDPE",
+      "variations": [
+          {
+              "name": "Black",
+              "store_url": "https://www.inventables.com/technologies/black-hdpe-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          51,
+                          51,
+                          51
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": true
+          },
+          {
+              "name": "Tan",
+              "store_url": "https://www.inventables.com/technologies/tan-hdpe-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          105,
+                          97,
+                          58
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "White",
+              "store_url": "https://www.inventables.com/technologies/white-hdpe-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Yellow",
+              "store_url": "https://www.inventables.com/technologies/yellow-hdpe-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          255,
+                          204,
+                          51
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Blue",
+              "store_url": "https://www.inventables.com/technologies/blue-hdpe-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          51,
+                          136,
+                          170
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Green",
+              "store_url": "https://www.inventables.com/technologies/green-hdpe-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          51,
+                          136,
+                          51
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Red",
+              "store_url": "https://www.inventables.com/technologies/red-hdpe-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          170,
+                          34,
+                          34
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Natural",
+              "store_url": "https://www.inventables.com/technologies/white-hdpe-sheet--2",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          221,
+                          221,
+                          221
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          }
+      ],
+      "prefixes": [
+          "toolbox/materials",
+          "application"
+      ],
+      "template": "index",
+      "layout": {},
+      "global": true
+  },
+  {
+      "id": 13,
+      "name": "Two-Color HDPE",
+      "store_url": "https://www.inventables.com/categories/materials/plastic/hdpe",
+      "layer_names": [
+          "Outer",
+          "Inner"
+      ],
+      "category": "Plastic",
+      "store_id": null,
+      "source": "global",
+      "width_x": null,
+      "length_y": null,
+      "thickness_z": null,
+      "texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/13/default/hdpe.jpg?1536692479",
+      "base_texture_url": null,
+      "thumbnail_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_thumbnails/13/default/HDPE_2color.png?1538408454",
+      "sort_name": "HDPE, 2-color",
+      "display_name": "2-Color HDPE",
+      "variations": [
+          {
+              "name": "Green on White",
+              "store_url": "https://www.inventables.com/technologies/two-color-hdpe-green-on-white",
+              "thumbnail_name": "2-Color HDPE",
+              "layers": [
+                  {
+                      "rgb": [
+                          0,
+                          102,
+                          0
+                      ],
+                      "bottomZ": -0.06,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0.06,
+                      "relativeTo": "bottom"
+                  },
+                  {
+                      "rgb": [
+                          0,
+                          102,
+                          0
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "White on Green",
+              "store_url": "https://www.inventables.com/technologies/two-color-hdpe-white-on-green",
+              "thumbnail_name": "2-Color HDPE White",
+              "layers": [
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": -0.06,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          0,
+                          102,
+                          0
+                      ],
+                      "bottomZ": 0.06,
+                      "relativeTo": "bottom"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Blue on White",
+              "store_url": "https://www.inventables.com/technologies/two-color-hdpe-blue-on-white",
+              "thumbnail_name": "2-Color HDPE",
+              "layers": [
+                  {
+                      "rgb": [
+                          0,
+                          0,
+                          139
+                      ],
+                      "bottomZ": -0.06,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0.06,
+                      "relativeTo": "bottom"
+                  },
+                  {
+                      "rgb": [
+                          0,
+                          0,
+                          139
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Brown on White",
+              "store_url": "https://www.inventables.com/technologies/two-color-hdpe-brown-on-white",
+              "thumbnail_name": "2-Color HDPE",
+              "layers": [
+                  {
+                      "rgb": [
+                          139,
+                          69,
+                          19
+                      ],
+                      "bottomZ": -0.06,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0.06,
+                      "relativeTo": "bottom"
+                  },
+                  {
+                      "rgb": [
+                          139,
+                          69,
+                          19
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Black on Yellow",
+              "store_url": "https://www.inventables.com/technologies/two-color-hdpe-black-on-yellow",
+              "thumbnail_name": "2-Color HDPE",
+              "layers": [
+                  {
+                      "rgb": [
+                          51,
+                          51,
+                          51
+                      ],
+                      "bottomZ": -0.06,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          204,
+                          51
+                      ],
+                      "bottomZ": 0.06,
+                      "relativeTo": "bottom"
+                  },
+                  {
+                      "rgb": [
+                          51,
+                          51,
+                          51
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "White on Brown",
+              "store_url": "https://www.inventables.com/technologies/two-color-hdpe-white-on-brown",
+              "thumbnail_name": "2-Color HDPE White",
+              "layers": [
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": -0.06,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          139,
+                          69,
+                          19
+                      ],
+                      "bottomZ": 0.06,
+                      "relativeTo": "bottom"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "White on Blue",
+              "store_url": "https://www.inventables.com/technologies/two-color-hdpe-white-on-blue",
+              "thumbnail_name": "2-Color HDPE White",
+              "layers": [
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": -0.06,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          0,
+                          0,
+                          139
+                      ],
+                      "bottomZ": 0.06,
+                      "relativeTo": "bottom"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "White on Black",
+              "store_url": "https://www.inventables.com/technologies/two-color-hdpe-white-on-black",
+              "thumbnail_name": "2-Color HDPE White",
+              "layers": [
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": -0.06,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          51,
+                          51,
+                          51
+                      ],
+                      "bottomZ": 0.06,
+                      "relativeTo": "bottom"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Black on White",
+              "store_url": "https://www.inventables.com/technologies/two-color-hdpe-black-on-white",
+              "thumbnail_name": "2-Color HDPE",
+              "layers": [
+                  {
+                      "rgb": [
+                          51,
+                          51,
+                          51
+                      ],
+                      "bottomZ": -0.06,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0.06,
+                      "relativeTo": "bottom"
+                  },
+                  {
+                      "rgb": [
+                          51,
+                          51,
+                          51
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": true
+          },
+          {
+              "name": "Red on White",
+              "store_url": "https://www.inventables.com/technologies/two-color-hdpe-red-on-white",
+              "thumbnail_name": "2-Color HDPE",
+              "layers": [
+                  {
+                      "rgb": [
+                          139,
+                          0,
+                          0
+                      ],
+                      "bottomZ": -0.06,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0.06,
+                      "relativeTo": "bottom"
+                  },
+                  {
+                      "rgb": [
+                          139,
+                          0,
+                          0
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "White on Red",
+              "store_url": "https://www.inventables.com/technologies/two-color-hdpe-white-on-red",
+              "thumbnail_name": "2-Color HDPE White",
+              "layers": [
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": -0.06,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          139,
+                          0,
+                          0
+                      ],
+                      "bottomZ": 0.06,
+                      "relativeTo": "bottom"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          255,
+                          255
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Yellow on Black",
+              "store_url": "https://www.inventables.com/technologies/two-color-hdpe-yellow-on-black",
+              "thumbnail_name": "2-Color HDPE",
+              "layers": [
+                  {
+                      "rgb": [
+                          255,
+                          204,
+                          51
+                      ],
+                      "bottomZ": -0.06,
+                      "relativeTo": "top"
+                  },
+                  {
+                      "rgb": [
+                          51,
+                          51,
+                          51
+                      ],
+                      "bottomZ": 0.06,
+                      "relativeTo": "bottom"
+                  },
+                  {
+                      "rgb": [
+                          255,
+                          204,
+                          51
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          }
+      ],
+      "prefixes": [
+          "toolbox/materials",
+          "application"
+      ],
+      "template": "index",
+      "layout": {},
+      "global": true
+  },
+  {
+      "id": 14,
+      "name": "Linoleum",
+      "store_url": "https://www.inventables.com/technologies/linoleum",
+      "layer_names": [],
+      "category": null,
+      "store_id": null,
+      "source": "global",
+      "width_x": null,
+      "length_y": null,
+      "thickness_z": null,
+      "texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/14/default/linoleum.jpg?1536692480",
+      "base_texture_url": null,
+      "thumbnail_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/14/default/linoleum.jpg?1536692480",
+      "sort_name": "Linoleum",
+      "display_name": "Linoleum",
+      "variations": [],
+      "prefixes": [
+          "toolbox/materials",
+          "application"
+      ],
+      "template": "index",
+      "layout": {},
+      "global": true
+  },
+  {
+      "id": 15,
+      "name": "MDF",
+      "store_url": "https://www.inventables.com/categories/materials/wood-mdf/mdf",
+      "layer_names": [
+          "Color"
+      ],
+      "category": "Wood",
+      "store_id": null,
+      "source": "global",
+      "width_x": null,
+      "length_y": null,
+      "thickness_z": null,
+      "texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/15/default/mdf.jpg?1536692481",
+      "base_texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_base_textures/15/default/mdf-base.jpg?1537471534",
+      "thumbnail_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/15/default/mdf.jpg?1536692481",
+      "sort_name": "MDF",
+      "display_name": "MDF",
+      "variations": [
+          {
+              "name": "Natural",
+              "store_url": "https://www.inventables.com/technologies/mdf-wood",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          204,
+                          176,
+                          136
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": true
+          },
+          {
+              "name": "Grey",
+              "store_url": "https://www.inventables.com/technologies/grey-mdf-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          170,
+                          163,
+                          153
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Black",
+              "store_url": "https://www.inventables.com/technologies/black-mdf-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          85,
+                          85,
+                          85
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Blue",
+              "store_url": "https://www.inventables.com/technologies/blue-mdf-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          136,
+                          153,
+                          170
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Red",
+              "store_url": "https://www.inventables.com/technologies/red-mdf-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          204,
+                          102,
+                          68
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Green",
+              "store_url": "https://www.inventables.com/technologies/green-mdf-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          102,
+                          119,
+                          85
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Yellow",
+              "store_url": "https://www.inventables.com/technologies/yellow-mdf-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          221,
+                          187,
+                          102
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          },
+          {
+              "name": "Orange",
+              "store_url": "https://www.inventables.com/technologies/orange-mdf-sheet",
+              "thumbnail_name": "Single Color",
+              "layers": [
+                  {
+                      "rgb": [
+                          221,
+                          153,
+                          85
+                      ],
+                      "bottomZ": 0,
+                      "relativeTo": "bottom"
+                  }
+              ],
+              "default": false
+          }
+      ],
+      "prefixes": [
+          "toolbox/materials",
+          "application"
+      ],
+      "template": "index",
+      "layout": {},
+      "global": true
+  },
+  {
+      "id": 16,
+      "name": "PCB",
+      "store_url": "https://www.inventables.com/technologies/circuit-board-blanks",
+      "layer_names": [],
+      "category": null,
+      "store_id": null,
+      "source": "global",
+      "width_x": null,
+      "length_y": null,
+      "thickness_z": null,
+      "texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/16/default/copper.jpg?1536692481",
+      "base_texture_url": null,
+      "thumbnail_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/16/default/copper.jpg?1536692481",
+      "sort_name": "PCB",
+      "display_name": "PCB",
+      "variations": [],
+      "prefixes": [
+          "toolbox/materials",
+          "application"
+      ],
+      "template": "index",
+      "layout": {},
+      "global": true
+  },
+  {
+      "id": 17,
+      "name": "Soft Maple",
+      "store_url": "https://www.inventables.com/technologies/soft-maple--2",
+      "layer_names": [],
+      "category": "Wood",
+      "store_id": null,
+      "source": "global",
+      "width_x": null,
+      "length_y": null,
+      "thickness_z": null,
+      "texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/17/default/maple.jpg?1536692482",
+      "base_texture_url": null,
+      "thumbnail_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/17/default/maple.jpg?1536692482",
+      "sort_name": "Soft Maple",
+      "display_name": "Soft Maple",
+      "variations": [],
+      "prefixes": [
+          "toolbox/materials",
+          "application"
+      ],
+      "template": "index",
+      "layout": {},
+      "global": true
+  },
+  {
+      "id": 18,
+      "name": "Walnut",
+      "store_url": "https://www.inventables.com/technologies/walnut--3",
+      "layer_names": [],
+      "category": "Wood",
+      "store_id": null,
+      "source": "global",
+      "width_x": null,
+      "length_y": null,
+      "thickness_z": null,
+      "texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/18/default/walnut.jpg?1536692482",
+      "base_texture_url": null,
+      "thumbnail_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/18/default/walnut.jpg?1536692482",
+      "sort_name": "Walnut",
+      "display_name": "Walnut",
+      "variations": [],
+      "prefixes": [
+          "toolbox/materials",
+          "application"
+      ],
+      "template": "index",
+      "layout": {},
+      "global": true
+  },
+  {
+      "id": 57568,
+      "name": "Pine",
+      "store_url": "",
+      "layer_names": [],
+      "category": "Wood",
+      "store_id": null,
+      "source": "global",
+      "width_x": null,
+      "length_y": null,
+      "thickness_z": null,
+      "texture_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/57568/default/pine.jpg?1619015106",
+      "base_texture_url": null,
+      "thumbnail_url": "https://s3.amazonaws.com/easel-prod/paperclip/material_textures/57568/default/pine.jpg?1619015106",
+      "sort_name": "Pine",
+      "display_name": "Pine",
+      "variations": [],
+      "prefixes": [
+          "toolbox/materials",
+          "application"
+      ],
+      "template": "index",
+      "layout": {},
+      "global": true
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+      "version_number": "0.3.21-dev3",
+      "current": false,
+      "deprecated": false,
+      "mac_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_mac_installers/49/original/EaselDriver-0.3.21-dev3.pkg?1637007391",
+      "windows_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_windows_installers/49/original/EaselDriver-0.3.21-dev3.exe?1637007391",
+      "linux_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_linux_installers/49/original/EaselDriver-0.3.21-dev3-x64.deb?1637007391"
+  },
+  {
+      "version_number": "0.3.18",
+      "current": false,
+      "deprecated": true,
+      "mac_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_mac_installers/43/original/EaselDriver-0.3.18.pkg?1576768952",
+      "windows_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_windows_installers/43/original/EaselDriver-0.3.18.exe?1582221525",
+      "linux_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_linux_installers/43/original/EaselDriver-0.3.18-x64.deb?1576696396"
+  },
+  {
+      "version_number": "0.3.19",
+      "current": false,
+      "deprecated": true,
+      "mac_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_mac_installers/45/original/EaselDriver-0.3.19.pkg?1586212073",
+      "windows_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_windows_installers/45/original/EaselDriver-0.3.19.exe?1586212073",
+      "linux_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_linux_installers/45/original/EaselDriver-0.3.19-x64.deb?1586212073"
+  },
+  {
+      "version_number": "0.3.21-dev",
+      "current": false,
+      "deprecated": false,
+      "mac_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_mac_installers/47/original/EaselDriver-0.3.21-dev.pkg?1600202253",
+      "windows_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_windows_installers/47/original/EaselDriver-0.3.21-dev.exe?1600202253",
+      "linux_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_linux_installers/47/original/EaselDriver-0.3.21-dev-x64.deb?1600202253"
+  },
+  {
+      "version_number": "0.3.21-dev2",
+      "current": false,
+      "deprecated": false,
+      "mac_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_mac_installers/48/original/EaselDriver-0.3.21-dev2.pkg?1635200564",
+      "windows_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_windows_installers/48/original/EaselDriver-0.3.21-dev2.exe?1635200508",
+      "linux_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_linux_installers/48/original/EaselDriver-0.3.21-dev2-x64.deb?1635200508"
+  },
+  {
+      "version_number": "0.3.20",
+      "current": false,
+      "deprecated": false,
+      "mac_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_mac_installers/46/original/EaselDriver-0.3.20.pkg?1589227234",
+      "windows_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_windows_installers/46/original/EaselDriver-0.3.20.exe?1589227234",
+      "linux_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_linux_installers/46/original/EaselDriver-0.3.20-x64.deb?1589227234"
+  },
+  {
+      "version_number": "0.3.21",
+      "current": true,
+      "deprecated": false,
+      "mac_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_mac_installers/50/original/EaselDriver.pkg?1641933736",
+      "windows_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_windows_installers/50/original/EaselDriver-0.3.21.exe?1641933736",
+      "linux_link": "https://s3.amazonaws.com/easel-prod/paperclip/sender_version_linux_installers/50/original/EaselDriver-0.3.21-x64.deb?1641933736"
+  }
+]
