@@ -14617,7 +14617,7 @@
           }))
       },
       loadUserNotifications: ()=>$.ajax({
-          url: "/notifications/system_notification",
+          url: "/notifications/system_notification.json",
           method: "get"
       }).done((function(e, t, n) {
           200 === n.status && EASEL.store.dispatch(EASEL.userNotificationActionCreators.setUserNotification(e.id, e.message, e.acknowledgeable, e.type))
@@ -14661,13 +14661,13 @@
           null != e && EASEL.editorActions.setPinShapesEnabled(e.pinShapesEnabled)
       },
       loadMaterials: ()=>$.ajax({
-          url: "/toolbox/materials",
+          url: "/toolbox/materials.json",
           dataType: "json",
           cache: !1
       }).then((e=>e.map(EASEL.materialHelper.toCamelCase))).done((e=>EASEL.materialActions.setMaterials(e))),
       loadFeatures: ()=>new Promise(((e,t)=>{
           $.ajax({
-              url: "/features",
+              url: "/features.json",
               dataType: "json",
               cache: !0,
               success: function(t) {
@@ -17417,7 +17417,7 @@
       });
       return {
           loadBits: ()=>$.ajax({
-              url: "/toolbox/bits",
+              url: "/toolbox/bits.json",
               dataType: "json",
               cache: !1
           }).then((t=>t.map(e))).done((e=>EASEL.store.dispatch(EASEL.bitActionCreators.setBits(e)))),
@@ -17562,7 +17562,7 @@
   }),
   {
       loadCutSettings: ()=>$.ajax({
-          url: "/cut_settings",
+          url: "/cut_settings.json",
           type: "GET",
           dataType: "json"
       }).then((e=>e.map(n))),
@@ -17941,7 +17941,7 @@
           return new Promise(((e,n)=>t.then(e, n)))
       },
       index: ()=>{
-          const e = $.ajax("/labels");
+          const e = $.ajax("/labels.json");
           return new Promise(((t,n)=>e.then(t, n)))
       }
       ,
@@ -34302,7 +34302,7 @@
                   className: "countdown-time-highlight"
               }, t[0]), " ", t[1], " left"), React.createElement(EASEL.component.a, {
                   onClick: a
-              }, "TELEVIO"))
+              }, "Get Easel Pro"))
           }
           if (e && !t)
               return null;
