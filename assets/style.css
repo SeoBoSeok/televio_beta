@@ -17569,3 +17569,5 @@ ul.nav-toolbox li.active a::after {
   margin: 4px;
   white-space: nowrap
 }
+
+#unit-switcher {display: none;}
