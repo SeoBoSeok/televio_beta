@@ -8353,23 +8353,26 @@ html,body {
 }
 
 .editor-grid__shadow {
-  fill: rgba(46,75,102,0.08);
+  /* fill: rgba(46,75,102,0.08); */
+  fill: rgba(255,255,255,0.08);
   fill-rule: evenodd
 }
 
 .editor-grid__material {
-  fill: #fff
+  /* fill: #fff */
+  fill: burlywood;
 }
 
+/* EDITOR GRID STYLE */
 .editor-grid__material-stroke {
   fill: none;
-  stroke: #488cc5;
+  stroke: transparent;
   stroke-width: 1.25
 }
 
 .editor-grid__work-area {
   fill: none;
-  stroke: #488cc5;
+  stroke: transparent;
   stroke-dasharray: 3 3
 }
 
@@ -8384,7 +8387,7 @@ html,body {
 }
 
 .editor-grid__line {
-  stroke: #488cc5
+  stroke: gray;
 }
 
 .editor-grid__line--secondary {

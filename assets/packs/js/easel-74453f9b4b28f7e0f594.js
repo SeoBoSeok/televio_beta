@@ -30268,6 +30268,7 @@
               const e = l[p];
               0 === p && t.moveTo(e.x, e.y);
               const a = c[p];
+              console.log(`t.stroke()`, t.stroke());
               t.strokeStyle !== a && (t.stroke(),
               t.beginPath(),
               t.strokeStyle = a);
